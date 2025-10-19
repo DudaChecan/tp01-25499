@@ -1,0 +1,4460 @@
+[
+    {
+        "temperatura": 26.8,
+        "humidade": 45.8,
+        "luz": 14,
+        "data_hora": "2025-10-01T00:00:00.000Z"
+    },
+    {
+        "temperatura": 17.2,
+        "humidade": 58.3,
+        "luz": 7,
+        "data_hora": "2025-10-01T01:00:00.000Z"
+    },
+    {
+        "temperatura": 27.3,
+        "humidade": 68.9,
+        "luz": 2,
+        "data_hora": "2025-10-01T02:00:00.000Z"
+    },
+    {
+        "temperatura": 26.3,
+        "humidade": 55.2,
+        "luz": 24,
+        "data_hora": "2025-10-01T03:00:00.000Z"
+    },
+    {
+        "temperatura": 26.6,
+        "humidade": 78.8,
+        "luz": 22,
+        "data_hora": "2025-10-01T04:00:00.000Z"
+    },
+    {
+        "temperatura": 26,
+        "humidade": 52,
+        "luz": 19,
+        "data_hora": "2025-10-01T05:00:00.000Z"
+    },
+    {
+        "temperatura": 21.8,
+        "humidade": 69.3,
+        "luz": 0,
+        "data_hora": "2025-10-01T06:00:00.000Z"
+    },
+    {
+        "temperatura": 15,
+        "humidade": 53,
+        "luz": 436,
+        "data_hora": "2025-10-01T07:00:00.000Z"
+    },
+    {
+        "temperatura": 18.3,
+        "humidade": 59.5,
+        "luz": 175,
+        "data_hora": "2025-10-01T08:00:00.000Z"
+    },
+    {
+        "temperatura": 23.2,
+        "humidade": 64.4,
+        "luz": 188,
+        "data_hora": "2025-10-01T09:00:00.000Z"
+    },
+    {
+        "temperatura": 27.6,
+        "humidade": 68.3,
+        "luz": 195,
+        "data_hora": "2025-10-01T10:00:00.000Z"
+    },
+    {
+        "temperatura": 16.4,
+        "humidade": 40.7,
+        "luz": 118,
+        "data_hora": "2025-10-01T11:00:00.000Z"
+    },
+    {
+        "temperatura": 29.6,
+        "humidade": 49.6,
+        "luz": 387,
+        "data_hora": "2025-10-01T12:00:00.000Z"
+    },
+    {
+        "temperatura": 19.8,
+        "humidade": 52.3,
+        "luz": 830,
+        "data_hora": "2025-10-01T13:00:00.000Z"
+    },
+    {
+        "temperatura": 27.5,
+        "humidade": 78.1,
+        "luz": 253,
+        "data_hora": "2025-10-01T14:00:00.000Z"
+    },
+    {
+        "temperatura": 23.2,
+        "humidade": 42.6,
+        "luz": 846,
+        "data_hora": "2025-10-01T15:00:00.000Z"
+    },
+    {
+        "temperatura": 26.9,
+        "humidade": 74.3,
+        "luz": 166,
+        "data_hora": "2025-10-01T16:00:00.000Z"
+    },
+    {
+        "temperatura": 29.8,
+        "humidade": 77.4,
+        "luz": 798,
+        "data_hora": "2025-10-01T17:00:00.000Z"
+    },
+    {
+        "temperatura": 29.9,
+        "humidade": 58.9,
+        "luz": 11,
+        "data_hora": "2025-10-01T18:00:00.000Z"
+    },
+    {
+        "temperatura": 19.7,
+        "humidade": 61.8,
+        "luz": 9,
+        "data_hora": "2025-10-01T19:00:00.000Z"
+    },
+    {
+        "temperatura": 15.6,
+        "humidade": 56.2,
+        "luz": 22,
+        "data_hora": "2025-10-01T20:00:00.000Z"
+    },
+    {
+        "temperatura": 24.3,
+        "humidade": 62.2,
+        "luz": 22,
+        "data_hora": "2025-10-01T21:00:00.000Z"
+    },
+    {
+        "temperatura": 26.4,
+        "humidade": 56.8,
+        "luz": 13,
+        "data_hora": "2025-10-01T22:00:00.000Z"
+    },
+    {
+        "temperatura": 25.8,
+        "humidade": 63.6,
+        "luz": 1,
+        "data_hora": "2025-10-01T23:00:00.000Z"
+    },
+    {
+        "temperatura": 23.9,
+        "humidade": 76.7,
+        "luz": 24,
+        "data_hora": "2025-10-02T00:00:00.000Z"
+    },
+    {
+        "temperatura": 23.1,
+        "humidade": 46.1,
+        "luz": 14,
+        "data_hora": "2025-10-02T01:00:00.000Z"
+    },
+    {
+        "temperatura": 16.9,
+        "humidade": 71.9,
+        "luz": 14,
+        "data_hora": "2025-10-02T02:00:00.000Z"
+    },
+    {
+        "temperatura": 27.2,
+        "humidade": 45.2,
+        "luz": 21,
+        "data_hora": "2025-10-02T03:00:00.000Z"
+    },
+    {
+        "temperatura": 23.7,
+        "humidade": 60.7,
+        "luz": 8,
+        "data_hora": "2025-10-02T04:00:00.000Z"
+    },
+    {
+        "temperatura": 21.5,
+        "humidade": 69.3,
+        "luz": 25,
+        "data_hora": "2025-10-02T05:00:00.000Z"
+    },
+    {
+        "temperatura": 21.4,
+        "humidade": 75.4,
+        "luz": 25,
+        "data_hora": "2025-10-02T06:00:00.000Z"
+    },
+    {
+        "temperatura": 16,
+        "humidade": 71.9,
+        "luz": 166,
+        "data_hora": "2025-10-02T07:00:00.000Z"
+    },
+    {
+        "temperatura": 21.8,
+        "humidade": 61.8,
+        "luz": 334,
+        "data_hora": "2025-10-02T08:00:00.000Z"
+    },
+    {
+        "temperatura": 26.5,
+        "humidade": 41.4,
+        "luz": 699,
+        "data_hora": "2025-10-02T09:00:00.000Z"
+    },
+    {
+        "temperatura": 18.3,
+        "humidade": 73.3,
+        "luz": 753,
+        "data_hora": "2025-10-02T10:00:00.000Z"
+    },
+    {
+        "temperatura": 18.8,
+        "humidade": 61.3,
+        "luz": 927,
+        "data_hora": "2025-10-02T11:00:00.000Z"
+    },
+    {
+        "temperatura": 17.4,
+        "humidade": 56.5,
+        "luz": 486,
+        "data_hora": "2025-10-02T12:00:00.000Z"
+    },
+    {
+        "temperatura": 23,
+        "humidade": 56.3,
+        "luz": 460,
+        "data_hora": "2025-10-02T13:00:00.000Z"
+    },
+    {
+        "temperatura": 19.5,
+        "humidade": 68.8,
+        "luz": 713,
+        "data_hora": "2025-10-02T14:00:00.000Z"
+    },
+    {
+        "temperatura": 23.1,
+        "humidade": 42,
+        "luz": 860,
+        "data_hora": "2025-10-02T15:00:00.000Z"
+    },
+    {
+        "temperatura": 20.9,
+        "humidade": 73.1,
+        "luz": 368,
+        "data_hora": "2025-10-02T16:00:00.000Z"
+    },
+    {
+        "temperatura": 21.2,
+        "humidade": 54.6,
+        "luz": 395,
+        "data_hora": "2025-10-02T17:00:00.000Z"
+    },
+    {
+        "temperatura": 16.2,
+        "humidade": 52.3,
+        "luz": 10,
+        "data_hora": "2025-10-02T18:00:00.000Z"
+    },
+    {
+        "temperatura": 19.3,
+        "humidade": 58.1,
+        "luz": 12,
+        "data_hora": "2025-10-02T19:00:00.000Z"
+    },
+    {
+        "temperatura": 27.5,
+        "humidade": 48.3,
+        "luz": 3,
+        "data_hora": "2025-10-02T20:00:00.000Z"
+    },
+    {
+        "temperatura": 21.8,
+        "humidade": 70,
+        "luz": 8,
+        "data_hora": "2025-10-02T21:00:00.000Z"
+    },
+    {
+        "temperatura": 15.5,
+        "humidade": 52.3,
+        "luz": 19,
+        "data_hora": "2025-10-02T22:00:00.000Z"
+    },
+    {
+        "temperatura": 18.2,
+        "humidade": 71.6,
+        "luz": 20,
+        "data_hora": "2025-10-02T23:00:00.000Z"
+    },
+    {
+        "temperatura": 22,
+        "humidade": 48.4,
+        "luz": 1,
+        "data_hora": "2025-10-03T00:00:00.000Z"
+    },
+    {
+        "temperatura": 23.7,
+        "humidade": 62.6,
+        "luz": 28,
+        "data_hora": "2025-10-03T01:00:00.000Z"
+    },
+    {
+        "temperatura": 23.9,
+        "humidade": 57.5,
+        "luz": 2,
+        "data_hora": "2025-10-03T02:00:00.000Z"
+    },
+    {
+        "temperatura": 22,
+        "humidade": 73.5,
+        "luz": 2,
+        "data_hora": "2025-10-03T03:00:00.000Z"
+    },
+    {
+        "temperatura": 27.5,
+        "humidade": 67.1,
+        "luz": 0,
+        "data_hora": "2025-10-03T04:00:00.000Z"
+    },
+    {
+        "temperatura": 29.5,
+        "humidade": 72.5,
+        "luz": 10,
+        "data_hora": "2025-10-03T05:00:00.000Z"
+    },
+    {
+        "temperatura": 19.2,
+        "humidade": 49.6,
+        "luz": 5,
+        "data_hora": "2025-10-03T06:00:00.000Z"
+    },
+    {
+        "temperatura": 27,
+        "humidade": 40.2,
+        "luz": 408,
+        "data_hora": "2025-10-03T07:00:00.000Z"
+    },
+    {
+        "temperatura": 27.2,
+        "humidade": 54.7,
+        "luz": 743,
+        "data_hora": "2025-10-03T08:00:00.000Z"
+    },
+    {
+        "temperatura": 25.5,
+        "humidade": 45.4,
+        "luz": 620,
+        "data_hora": "2025-10-03T09:00:00.000Z"
+    },
+    {
+        "temperatura": 21,
+        "humidade": 53.4,
+        "luz": 536,
+        "data_hora": "2025-10-03T10:00:00.000Z"
+    },
+    {
+        "temperatura": 20,
+        "humidade": 56.6,
+        "luz": 965,
+        "data_hora": "2025-10-03T11:00:00.000Z"
+    },
+    {
+        "temperatura": 24.8,
+        "humidade": 44.8,
+        "luz": 863,
+        "data_hora": "2025-10-03T12:00:00.000Z"
+    },
+    {
+        "temperatura": 26.4,
+        "humidade": 64.6,
+        "luz": 374,
+        "data_hora": "2025-10-03T13:00:00.000Z"
+    },
+    {
+        "temperatura": 18,
+        "humidade": 40.1,
+        "luz": 557,
+        "data_hora": "2025-10-03T14:00:00.000Z"
+    },
+    {
+        "temperatura": 25.7,
+        "humidade": 63.3,
+        "luz": 773,
+        "data_hora": "2025-10-03T15:00:00.000Z"
+    },
+    {
+        "temperatura": 17.9,
+        "humidade": 61.2,
+        "luz": 499,
+        "data_hora": "2025-10-03T16:00:00.000Z"
+    },
+    {
+        "temperatura": 21.1,
+        "humidade": 47.3,
+        "luz": 592,
+        "data_hora": "2025-10-03T17:00:00.000Z"
+    },
+    {
+        "temperatura": 27,
+        "humidade": 67,
+        "luz": 30,
+        "data_hora": "2025-10-03T18:00:00.000Z"
+    },
+    {
+        "temperatura": 16.6,
+        "humidade": 47.6,
+        "luz": 28,
+        "data_hora": "2025-10-03T19:00:00.000Z"
+    },
+    {
+        "temperatura": 27.4,
+        "humidade": 40.8,
+        "luz": 14,
+        "data_hora": "2025-10-03T20:00:00.000Z"
+    },
+    {
+        "temperatura": 22.2,
+        "humidade": 67.8,
+        "luz": 19,
+        "data_hora": "2025-10-03T21:00:00.000Z"
+    },
+    {
+        "temperatura": 24.7,
+        "humidade": 48.4,
+        "luz": 18,
+        "data_hora": "2025-10-03T22:00:00.000Z"
+    },
+    {
+        "temperatura": 27,
+        "humidade": 60.5,
+        "luz": 1,
+        "data_hora": "2025-10-03T23:00:00.000Z"
+    },
+    {
+        "temperatura": 23.2,
+        "humidade": 45.1,
+        "luz": 3,
+        "data_hora": "2025-10-04T00:00:00.000Z"
+    },
+    {
+        "temperatura": 24.2,
+        "humidade": 55.4,
+        "luz": 5,
+        "data_hora": "2025-10-04T01:00:00.000Z"
+    },
+    {
+        "temperatura": 25.9,
+        "humidade": 50.7,
+        "luz": 26,
+        "data_hora": "2025-10-04T02:00:00.000Z"
+    },
+    {
+        "temperatura": 22.1,
+        "humidade": 54.5,
+        "luz": 13,
+        "data_hora": "2025-10-04T03:00:00.000Z"
+    },
+    {
+        "temperatura": 18,
+        "humidade": 42.1,
+        "luz": 20,
+        "data_hora": "2025-10-04T04:00:00.000Z"
+    },
+    {
+        "temperatura": 27,
+        "humidade": 40.4,
+        "luz": 10,
+        "data_hora": "2025-10-04T05:00:00.000Z"
+    },
+    {
+        "temperatura": 27.6,
+        "humidade": 64.4,
+        "luz": 19,
+        "data_hora": "2025-10-04T06:00:00.000Z"
+    },
+    {
+        "temperatura": 25.1,
+        "humidade": 55.1,
+        "luz": 640,
+        "data_hora": "2025-10-04T07:00:00.000Z"
+    },
+    {
+        "temperatura": 15.7,
+        "humidade": 78.8,
+        "luz": 587,
+        "data_hora": "2025-10-04T08:00:00.000Z"
+    },
+    {
+        "temperatura": 15.8,
+        "humidade": 77.2,
+        "luz": 766,
+        "data_hora": "2025-10-04T09:00:00.000Z"
+    },
+    {
+        "temperatura": 27,
+        "humidade": 79.8,
+        "luz": 829,
+        "data_hora": "2025-10-04T10:00:00.000Z"
+    },
+    {
+        "temperatura": 25.9,
+        "humidade": 71,
+        "luz": 675,
+        "data_hora": "2025-10-04T11:00:00.000Z"
+    },
+    {
+        "temperatura": 26.8,
+        "humidade": 51.6,
+        "luz": 958,
+        "data_hora": "2025-10-04T12:00:00.000Z"
+    },
+    {
+        "temperatura": 23.5,
+        "humidade": 69,
+        "luz": 287,
+        "data_hora": "2025-10-04T13:00:00.000Z"
+    },
+    {
+        "temperatura": 19.3,
+        "humidade": 63.2,
+        "luz": 906,
+        "data_hora": "2025-10-04T14:00:00.000Z"
+    },
+    {
+        "temperatura": 19.1,
+        "humidade": 79.5,
+        "luz": 725,
+        "data_hora": "2025-10-04T15:00:00.000Z"
+    },
+    {
+        "temperatura": 25.4,
+        "humidade": 46.9,
+        "luz": 686,
+        "data_hora": "2025-10-04T16:00:00.000Z"
+    },
+    {
+        "temperatura": 18.9,
+        "humidade": 42.3,
+        "luz": 268,
+        "data_hora": "2025-10-04T17:00:00.000Z"
+    },
+    {
+        "temperatura": 26.5,
+        "humidade": 79,
+        "luz": 17,
+        "data_hora": "2025-10-04T18:00:00.000Z"
+    },
+    {
+        "temperatura": 29.5,
+        "humidade": 60.6,
+        "luz": 29,
+        "data_hora": "2025-10-04T19:00:00.000Z"
+    },
+    {
+        "temperatura": 15.5,
+        "humidade": 74.6,
+        "luz": 1,
+        "data_hora": "2025-10-04T20:00:00.000Z"
+    },
+    {
+        "temperatura": 29.8,
+        "humidade": 44,
+        "luz": 27,
+        "data_hora": "2025-10-04T21:00:00.000Z"
+    },
+    {
+        "temperatura": 21.6,
+        "humidade": 58.3,
+        "luz": 10,
+        "data_hora": "2025-10-04T22:00:00.000Z"
+    },
+    {
+        "temperatura": 27.7,
+        "humidade": 50.3,
+        "luz": 11,
+        "data_hora": "2025-10-04T23:00:00.000Z"
+    },
+    {
+        "temperatura": 21.1,
+        "humidade": 46.1,
+        "luz": 8,
+        "data_hora": "2025-10-05T00:00:00.000Z"
+    },
+    {
+        "temperatura": 26,
+        "humidade": 42.1,
+        "luz": 19,
+        "data_hora": "2025-10-05T01:00:00.000Z"
+    },
+    {
+        "temperatura": 15.4,
+        "humidade": 55.6,
+        "luz": 20,
+        "data_hora": "2025-10-05T02:00:00.000Z"
+    },
+    {
+        "temperatura": 27.3,
+        "humidade": 44.4,
+        "luz": 4,
+        "data_hora": "2025-10-05T03:00:00.000Z"
+    },
+    {
+        "temperatura": 28.3,
+        "humidade": 56.9,
+        "luz": 10,
+        "data_hora": "2025-10-05T04:00:00.000Z"
+    },
+    {
+        "temperatura": 21,
+        "humidade": 60.3,
+        "luz": 22,
+        "data_hora": "2025-10-05T05:00:00.000Z"
+    },
+    {
+        "temperatura": 30,
+        "humidade": 43.9,
+        "luz": 19,
+        "data_hora": "2025-10-05T06:00:00.000Z"
+    },
+    {
+        "temperatura": 24.8,
+        "humidade": 60.7,
+        "luz": 947,
+        "data_hora": "2025-10-05T07:00:00.000Z"
+    },
+    {
+        "temperatura": 26.4,
+        "humidade": 61.7,
+        "luz": 612,
+        "data_hora": "2025-10-05T08:00:00.000Z"
+    },
+    {
+        "temperatura": 28.6,
+        "humidade": 60.8,
+        "luz": 808,
+        "data_hora": "2025-10-05T09:00:00.000Z"
+    },
+    {
+        "temperatura": 25.8,
+        "humidade": 63.6,
+        "luz": 799,
+        "data_hora": "2025-10-05T10:00:00.000Z"
+    },
+    {
+        "temperatura": 15,
+        "humidade": 52.4,
+        "luz": 786,
+        "data_hora": "2025-10-05T11:00:00.000Z"
+    },
+    {
+        "temperatura": 29.2,
+        "humidade": 76.3,
+        "luz": 503,
+        "data_hora": "2025-10-05T12:00:00.000Z"
+    },
+    {
+        "temperatura": 22.5,
+        "humidade": 59.4,
+        "luz": 991,
+        "data_hora": "2025-10-05T13:00:00.000Z"
+    },
+    {
+        "temperatura": 15.8,
+        "humidade": 61.5,
+        "luz": 508,
+        "data_hora": "2025-10-05T14:00:00.000Z"
+    },
+    {
+        "temperatura": 21.2,
+        "humidade": 45,
+        "luz": 207,
+        "data_hora": "2025-10-05T15:00:00.000Z"
+    },
+    {
+        "temperatura": 29.3,
+        "humidade": 76.3,
+        "luz": 424,
+        "data_hora": "2025-10-05T16:00:00.000Z"
+    },
+    {
+        "temperatura": 21.9,
+        "humidade": 69.3,
+        "luz": 565,
+        "data_hora": "2025-10-05T17:00:00.000Z"
+    },
+    {
+        "temperatura": 22.5,
+        "humidade": 62.1,
+        "luz": 5,
+        "data_hora": "2025-10-05T18:00:00.000Z"
+    },
+    {
+        "temperatura": 22.3,
+        "humidade": 52.1,
+        "luz": 30,
+        "data_hora": "2025-10-05T19:00:00.000Z"
+    },
+    {
+        "temperatura": 21.8,
+        "humidade": 70.8,
+        "luz": 24,
+        "data_hora": "2025-10-05T20:00:00.000Z"
+    },
+    {
+        "temperatura": 29.8,
+        "humidade": 75.1,
+        "luz": 9,
+        "data_hora": "2025-10-05T21:00:00.000Z"
+    },
+    {
+        "temperatura": 24.6,
+        "humidade": 73,
+        "luz": 27,
+        "data_hora": "2025-10-05T22:00:00.000Z"
+    },
+    {
+        "temperatura": 18.8,
+        "humidade": 71.3,
+        "luz": 17,
+        "data_hora": "2025-10-05T23:00:00.000Z"
+    },
+    {
+        "temperatura": 28.1,
+        "humidade": 49.5,
+        "luz": 13,
+        "data_hora": "2025-10-06T00:00:00.000Z"
+    },
+    {
+        "temperatura": 26,
+        "humidade": 52.8,
+        "luz": 3,
+        "data_hora": "2025-10-06T01:00:00.000Z"
+    },
+    {
+        "temperatura": 16.7,
+        "humidade": 68,
+        "luz": 28,
+        "data_hora": "2025-10-06T02:00:00.000Z"
+    },
+    {
+        "temperatura": 25.6,
+        "humidade": 51.1,
+        "luz": 28,
+        "data_hora": "2025-10-06T03:00:00.000Z"
+    },
+    {
+        "temperatura": 15.4,
+        "humidade": 46.8,
+        "luz": 9,
+        "data_hora": "2025-10-06T04:00:00.000Z"
+    },
+    {
+        "temperatura": 20.5,
+        "humidade": 46.1,
+        "luz": 11,
+        "data_hora": "2025-10-06T05:00:00.000Z"
+    },
+    {
+        "temperatura": 16.6,
+        "humidade": 63.8,
+        "luz": 28,
+        "data_hora": "2025-10-06T06:00:00.000Z"
+    },
+    {
+        "temperatura": 20,
+        "humidade": 56.2,
+        "luz": 240,
+        "data_hora": "2025-10-06T07:00:00.000Z"
+    },
+    {
+        "temperatura": 20.8,
+        "humidade": 52.7,
+        "luz": 172,
+        "data_hora": "2025-10-06T08:00:00.000Z"
+    },
+    {
+        "temperatura": 24.4,
+        "humidade": 49.2,
+        "luz": 54,
+        "data_hora": "2025-10-06T09:00:00.000Z"
+    },
+    {
+        "temperatura": 22.2,
+        "humidade": 50.4,
+        "luz": 957,
+        "data_hora": "2025-10-06T10:00:00.000Z"
+    },
+    {
+        "temperatura": 15.4,
+        "humidade": 54.3,
+        "luz": 167,
+        "data_hora": "2025-10-06T11:00:00.000Z"
+    },
+    {
+        "temperatura": 21.7,
+        "humidade": 50.5,
+        "luz": 508,
+        "data_hora": "2025-10-06T12:00:00.000Z"
+    },
+    {
+        "temperatura": 17.5,
+        "humidade": 48.5,
+        "luz": 973,
+        "data_hora": "2025-10-06T13:00:00.000Z"
+    },
+    {
+        "temperatura": 17.4,
+        "humidade": 73.5,
+        "luz": 273,
+        "data_hora": "2025-10-06T14:00:00.000Z"
+    },
+    {
+        "temperatura": 22.8,
+        "humidade": 40.9,
+        "luz": 704,
+        "data_hora": "2025-10-06T15:00:00.000Z"
+    },
+    {
+        "temperatura": 28.8,
+        "humidade": 67.7,
+        "luz": 611,
+        "data_hora": "2025-10-06T16:00:00.000Z"
+    },
+    {
+        "temperatura": 24.4,
+        "humidade": 41.9,
+        "luz": 338,
+        "data_hora": "2025-10-06T17:00:00.000Z"
+    },
+    {
+        "temperatura": 29.5,
+        "humidade": 68.5,
+        "luz": 4,
+        "data_hora": "2025-10-06T18:00:00.000Z"
+    },
+    {
+        "temperatura": 23,
+        "humidade": 61.6,
+        "luz": 13,
+        "data_hora": "2025-10-06T19:00:00.000Z"
+    },
+    {
+        "temperatura": 15.3,
+        "humidade": 78.9,
+        "luz": 26,
+        "data_hora": "2025-10-06T20:00:00.000Z"
+    },
+    {
+        "temperatura": 28.7,
+        "humidade": 65,
+        "luz": 3,
+        "data_hora": "2025-10-06T21:00:00.000Z"
+    },
+    {
+        "temperatura": 17.7,
+        "humidade": 49.1,
+        "luz": 26,
+        "data_hora": "2025-10-06T22:00:00.000Z"
+    },
+    {
+        "temperatura": 15.9,
+        "humidade": 69.5,
+        "luz": 29,
+        "data_hora": "2025-10-06T23:00:00.000Z"
+    },
+    {
+        "temperatura": 25.9,
+        "humidade": 70.6,
+        "luz": 10,
+        "data_hora": "2025-10-07T00:00:00.000Z"
+    },
+    {
+        "temperatura": 26.2,
+        "humidade": 50.6,
+        "luz": 17,
+        "data_hora": "2025-10-07T01:00:00.000Z"
+    },
+    {
+        "temperatura": 22.1,
+        "humidade": 51.7,
+        "luz": 3,
+        "data_hora": "2025-10-07T02:00:00.000Z"
+    },
+    {
+        "temperatura": 16.6,
+        "humidade": 76.7,
+        "luz": 7,
+        "data_hora": "2025-10-07T03:00:00.000Z"
+    },
+    {
+        "temperatura": 22.3,
+        "humidade": 79.3,
+        "luz": 30,
+        "data_hora": "2025-10-07T04:00:00.000Z"
+    },
+    {
+        "temperatura": 20.8,
+        "humidade": 40.1,
+        "luz": 9,
+        "data_hora": "2025-10-07T05:00:00.000Z"
+    },
+    {
+        "temperatura": 17.4,
+        "humidade": 52.3,
+        "luz": 23,
+        "data_hora": "2025-10-07T06:00:00.000Z"
+    },
+    {
+        "temperatura": 25.2,
+        "humidade": 71.4,
+        "luz": 680,
+        "data_hora": "2025-10-07T07:00:00.000Z"
+    },
+    {
+        "temperatura": 21,
+        "humidade": 53.6,
+        "luz": 873,
+        "data_hora": "2025-10-07T08:00:00.000Z"
+    },
+    {
+        "temperatura": 22.4,
+        "humidade": 54,
+        "luz": 631,
+        "data_hora": "2025-10-07T09:00:00.000Z"
+    },
+    {
+        "temperatura": 17.6,
+        "humidade": 67.6,
+        "luz": 91,
+        "data_hora": "2025-10-07T10:00:00.000Z"
+    },
+    {
+        "temperatura": 17.2,
+        "humidade": 50.1,
+        "luz": 407,
+        "data_hora": "2025-10-07T11:00:00.000Z"
+    },
+    {
+        "temperatura": 24.1,
+        "humidade": 73.7,
+        "luz": 638,
+        "data_hora": "2025-10-07T12:00:00.000Z"
+    },
+    {
+        "temperatura": 18.1,
+        "humidade": 79.4,
+        "luz": 783,
+        "data_hora": "2025-10-07T13:00:00.000Z"
+    },
+    {
+        "temperatura": 19.3,
+        "humidade": 72.4,
+        "luz": 785,
+        "data_hora": "2025-10-07T14:00:00.000Z"
+    },
+    {
+        "temperatura": 28.1,
+        "humidade": 46.9,
+        "luz": 506,
+        "data_hora": "2025-10-07T15:00:00.000Z"
+    },
+    {
+        "temperatura": 18.8,
+        "humidade": 41.1,
+        "luz": 188,
+        "data_hora": "2025-10-07T16:00:00.000Z"
+    },
+    {
+        "temperatura": 20,
+        "humidade": 59.1,
+        "luz": 144,
+        "data_hora": "2025-10-07T17:00:00.000Z"
+    },
+    {
+        "temperatura": 16,
+        "humidade": 50.6,
+        "luz": 15,
+        "data_hora": "2025-10-07T18:00:00.000Z"
+    },
+    {
+        "temperatura": 27.2,
+        "humidade": 65.4,
+        "luz": 3,
+        "data_hora": "2025-10-07T19:00:00.000Z"
+    },
+    {
+        "temperatura": 20,
+        "humidade": 79.3,
+        "luz": 15,
+        "data_hora": "2025-10-07T20:00:00.000Z"
+    },
+    {
+        "temperatura": 26.4,
+        "humidade": 70.1,
+        "luz": 3,
+        "data_hora": "2025-10-07T21:00:00.000Z"
+    },
+    {
+        "temperatura": 18.4,
+        "humidade": 79.8,
+        "luz": 6,
+        "data_hora": "2025-10-07T22:00:00.000Z"
+    },
+    {
+        "temperatura": 20.5,
+        "humidade": 60.6,
+        "luz": 23,
+        "data_hora": "2025-10-07T23:00:00.000Z"
+    },
+    {
+        "temperatura": 28.8,
+        "humidade": 64.5,
+        "luz": 21,
+        "data_hora": "2025-10-08T00:00:00.000Z"
+    },
+    {
+        "temperatura": 19.9,
+        "humidade": 60.6,
+        "luz": 13,
+        "data_hora": "2025-10-08T01:00:00.000Z"
+    },
+    {
+        "temperatura": 22.2,
+        "humidade": 48.4,
+        "luz": 25,
+        "data_hora": "2025-10-08T02:00:00.000Z"
+    },
+    {
+        "temperatura": 25.8,
+        "humidade": 44.8,
+        "luz": 19,
+        "data_hora": "2025-10-08T03:00:00.000Z"
+    },
+    {
+        "temperatura": 19.4,
+        "humidade": 56.7,
+        "luz": 3,
+        "data_hora": "2025-10-08T04:00:00.000Z"
+    },
+    {
+        "temperatura": 26.9,
+        "humidade": 71.2,
+        "luz": 19,
+        "data_hora": "2025-10-08T05:00:00.000Z"
+    },
+    {
+        "temperatura": 15.6,
+        "humidade": 65.5,
+        "luz": 22,
+        "data_hora": "2025-10-08T06:00:00.000Z"
+    },
+    {
+        "temperatura": 20,
+        "humidade": 54.2,
+        "luz": 89,
+        "data_hora": "2025-10-08T07:00:00.000Z"
+    },
+    {
+        "temperatura": 20.1,
+        "humidade": 49.3,
+        "luz": 883,
+        "data_hora": "2025-10-08T08:00:00.000Z"
+    },
+    {
+        "temperatura": 16.9,
+        "humidade": 77.3,
+        "luz": 165,
+        "data_hora": "2025-10-08T09:00:00.000Z"
+    },
+    {
+        "temperatura": 28.9,
+        "humidade": 55.6,
+        "luz": 565,
+        "data_hora": "2025-10-08T10:00:00.000Z"
+    },
+    {
+        "temperatura": 18.1,
+        "humidade": 46.3,
+        "luz": 732,
+        "data_hora": "2025-10-08T11:00:00.000Z"
+    },
+    {
+        "temperatura": 23.1,
+        "humidade": 44.8,
+        "luz": 845,
+        "data_hora": "2025-10-08T12:00:00.000Z"
+    },
+    {
+        "temperatura": 16.4,
+        "humidade": 73.6,
+        "luz": 501,
+        "data_hora": "2025-10-08T13:00:00.000Z"
+    },
+    {
+        "temperatura": 20.8,
+        "humidade": 49.3,
+        "luz": 836,
+        "data_hora": "2025-10-08T14:00:00.000Z"
+    },
+    {
+        "temperatura": 24.4,
+        "humidade": 42,
+        "luz": 438,
+        "data_hora": "2025-10-08T15:00:00.000Z"
+    },
+    {
+        "temperatura": 20.5,
+        "humidade": 50.6,
+        "luz": 546,
+        "data_hora": "2025-10-08T16:00:00.000Z"
+    },
+    {
+        "temperatura": 27.2,
+        "humidade": 61.9,
+        "luz": 353,
+        "data_hora": "2025-10-08T17:00:00.000Z"
+    },
+    {
+        "temperatura": 27.4,
+        "humidade": 59,
+        "luz": 19,
+        "data_hora": "2025-10-08T18:00:00.000Z"
+    },
+    {
+        "temperatura": 25.9,
+        "humidade": 78.2,
+        "luz": 22,
+        "data_hora": "2025-10-08T19:00:00.000Z"
+    },
+    {
+        "temperatura": 28.6,
+        "humidade": 70.1,
+        "luz": 5,
+        "data_hora": "2025-10-08T20:00:00.000Z"
+    },
+    {
+        "temperatura": 26.8,
+        "humidade": 58.6,
+        "luz": 1,
+        "data_hora": "2025-10-08T21:00:00.000Z"
+    },
+    {
+        "temperatura": 29.6,
+        "humidade": 57.2,
+        "luz": 22,
+        "data_hora": "2025-10-08T22:00:00.000Z"
+    },
+    {
+        "temperatura": 15.8,
+        "humidade": 47.5,
+        "luz": 4,
+        "data_hora": "2025-10-08T23:00:00.000Z"
+    },
+    {
+        "temperatura": 19.6,
+        "humidade": 43.1,
+        "luz": 3,
+        "data_hora": "2025-10-09T00:00:00.000Z"
+    },
+    {
+        "temperatura": 16.2,
+        "humidade": 68.1,
+        "luz": 18,
+        "data_hora": "2025-10-09T01:00:00.000Z"
+    },
+    {
+        "temperatura": 24.5,
+        "humidade": 53.9,
+        "luz": 23,
+        "data_hora": "2025-10-09T02:00:00.000Z"
+    },
+    {
+        "temperatura": 21.6,
+        "humidade": 69.6,
+        "luz": 25,
+        "data_hora": "2025-10-09T03:00:00.000Z"
+    },
+    {
+        "temperatura": 26.2,
+        "humidade": 73.4,
+        "luz": 10,
+        "data_hora": "2025-10-09T04:00:00.000Z"
+    },
+    {
+        "temperatura": 23,
+        "humidade": 49.5,
+        "luz": 24,
+        "data_hora": "2025-10-09T05:00:00.000Z"
+    },
+    {
+        "temperatura": 17.5,
+        "humidade": 41.4,
+        "luz": 6,
+        "data_hora": "2025-10-09T06:00:00.000Z"
+    },
+    {
+        "temperatura": 22.5,
+        "humidade": 42.9,
+        "luz": 329,
+        "data_hora": "2025-10-09T07:00:00.000Z"
+    },
+    {
+        "temperatura": 24.4,
+        "humidade": 76.2,
+        "luz": 886,
+        "data_hora": "2025-10-09T08:00:00.000Z"
+    },
+    {
+        "temperatura": 28.9,
+        "humidade": 65.1,
+        "luz": 673,
+        "data_hora": "2025-10-09T09:00:00.000Z"
+    },
+    {
+        "temperatura": 17.7,
+        "humidade": 48.5,
+        "luz": 752,
+        "data_hora": "2025-10-09T10:00:00.000Z"
+    },
+    {
+        "temperatura": 25.3,
+        "humidade": 68,
+        "luz": 712,
+        "data_hora": "2025-10-09T11:00:00.000Z"
+    },
+    {
+        "temperatura": 28.3,
+        "humidade": 49.5,
+        "luz": 798,
+        "data_hora": "2025-10-09T12:00:00.000Z"
+    },
+    {
+        "temperatura": 29.6,
+        "humidade": 61,
+        "luz": 903,
+        "data_hora": "2025-10-09T13:00:00.000Z"
+    },
+    {
+        "temperatura": 21.3,
+        "humidade": 54.9,
+        "luz": 945,
+        "data_hora": "2025-10-09T14:00:00.000Z"
+    },
+    {
+        "temperatura": 29.5,
+        "humidade": 73.8,
+        "luz": 498,
+        "data_hora": "2025-10-09T15:00:00.000Z"
+    },
+    {
+        "temperatura": 20.8,
+        "humidade": 57.4,
+        "luz": 848,
+        "data_hora": "2025-10-09T16:00:00.000Z"
+    },
+    {
+        "temperatura": 28.7,
+        "humidade": 43.5,
+        "luz": 548,
+        "data_hora": "2025-10-09T17:00:00.000Z"
+    },
+    {
+        "temperatura": 17.6,
+        "humidade": 51.6,
+        "luz": 13,
+        "data_hora": "2025-10-09T18:00:00.000Z"
+    },
+    {
+        "temperatura": 25,
+        "humidade": 57.3,
+        "luz": 19,
+        "data_hora": "2025-10-09T19:00:00.000Z"
+    },
+    {
+        "temperatura": 15.5,
+        "humidade": 49.1,
+        "luz": 24,
+        "data_hora": "2025-10-09T20:00:00.000Z"
+    },
+    {
+        "temperatura": 25,
+        "humidade": 71.2,
+        "luz": 2,
+        "data_hora": "2025-10-09T21:00:00.000Z"
+    },
+    {
+        "temperatura": 19.8,
+        "humidade": 46.9,
+        "luz": 28,
+        "data_hora": "2025-10-09T22:00:00.000Z"
+    },
+    {
+        "temperatura": 29.6,
+        "humidade": 56.5,
+        "luz": 17,
+        "data_hora": "2025-10-09T23:00:00.000Z"
+    },
+    {
+        "temperatura": 26.5,
+        "humidade": 58.6,
+        "luz": 11,
+        "data_hora": "2025-10-10T00:00:00.000Z"
+    },
+    {
+        "temperatura": 24.5,
+        "humidade": 50.9,
+        "luz": 18,
+        "data_hora": "2025-10-10T01:00:00.000Z"
+    },
+    {
+        "temperatura": 29,
+        "humidade": 57.2,
+        "luz": 26,
+        "data_hora": "2025-10-10T02:00:00.000Z"
+    },
+    {
+        "temperatura": 25.5,
+        "humidade": 73,
+        "luz": 8,
+        "data_hora": "2025-10-10T03:00:00.000Z"
+    },
+    {
+        "temperatura": 18.3,
+        "humidade": 62.1,
+        "luz": 19,
+        "data_hora": "2025-10-10T04:00:00.000Z"
+    },
+    {
+        "temperatura": 16.9,
+        "humidade": 55,
+        "luz": 30,
+        "data_hora": "2025-10-10T05:00:00.000Z"
+    },
+    {
+        "temperatura": 18.5,
+        "humidade": 69.1,
+        "luz": 12,
+        "data_hora": "2025-10-10T06:00:00.000Z"
+    },
+    {
+        "temperatura": 29,
+        "humidade": 74.7,
+        "luz": 883,
+        "data_hora": "2025-10-10T07:00:00.000Z"
+    },
+    {
+        "temperatura": 29.3,
+        "humidade": 74.9,
+        "luz": 944,
+        "data_hora": "2025-10-10T08:00:00.000Z"
+    },
+    {
+        "temperatura": 26.3,
+        "humidade": 50.6,
+        "luz": 682,
+        "data_hora": "2025-10-10T09:00:00.000Z"
+    },
+    {
+        "temperatura": 17.4,
+        "humidade": 41.8,
+        "luz": 837,
+        "data_hora": "2025-10-10T10:00:00.000Z"
+    },
+    {
+        "temperatura": 17.2,
+        "humidade": 71.3,
+        "luz": 78,
+        "data_hora": "2025-10-10T11:00:00.000Z"
+    },
+    {
+        "temperatura": 20,
+        "humidade": 72.7,
+        "luz": 687,
+        "data_hora": "2025-10-10T12:00:00.000Z"
+    },
+    {
+        "temperatura": 26.9,
+        "humidade": 40.6,
+        "luz": 620,
+        "data_hora": "2025-10-10T13:00:00.000Z"
+    },
+    {
+        "temperatura": 28.6,
+        "humidade": 60.2,
+        "luz": 224,
+        "data_hora": "2025-10-10T14:00:00.000Z"
+    },
+    {
+        "temperatura": 15.6,
+        "humidade": 74.4,
+        "luz": 976,
+        "data_hora": "2025-10-10T15:00:00.000Z"
+    },
+    {
+        "temperatura": 23.1,
+        "humidade": 67.1,
+        "luz": 636,
+        "data_hora": "2025-10-10T16:00:00.000Z"
+    },
+    {
+        "temperatura": 18.8,
+        "humidade": 77.5,
+        "luz": 352,
+        "data_hora": "2025-10-10T17:00:00.000Z"
+    },
+    {
+        "temperatura": 26.5,
+        "humidade": 57.3,
+        "luz": 14,
+        "data_hora": "2025-10-10T18:00:00.000Z"
+    },
+    {
+        "temperatura": 23.3,
+        "humidade": 58.6,
+        "luz": 20,
+        "data_hora": "2025-10-10T19:00:00.000Z"
+    },
+    {
+        "temperatura": 18.8,
+        "humidade": 60,
+        "luz": 29,
+        "data_hora": "2025-10-10T20:00:00.000Z"
+    },
+    {
+        "temperatura": 21,
+        "humidade": 57,
+        "luz": 16,
+        "data_hora": "2025-10-10T21:00:00.000Z"
+    },
+    {
+        "temperatura": 25.7,
+        "humidade": 40.5,
+        "luz": 7,
+        "data_hora": "2025-10-10T22:00:00.000Z"
+    },
+    {
+        "temperatura": 19.1,
+        "humidade": 52.9,
+        "luz": 13,
+        "data_hora": "2025-10-10T23:00:00.000Z"
+    },
+    {
+        "temperatura": 23.8,
+        "humidade": 77.9,
+        "luz": 20,
+        "data_hora": "2025-10-11T00:00:00.000Z"
+    },
+    {
+        "temperatura": 29,
+        "humidade": 41,
+        "luz": 21,
+        "data_hora": "2025-10-11T01:00:00.000Z"
+    },
+    {
+        "temperatura": 16.4,
+        "humidade": 58.7,
+        "luz": 21,
+        "data_hora": "2025-10-11T02:00:00.000Z"
+    },
+    {
+        "temperatura": 17.6,
+        "humidade": 42.9,
+        "luz": 20,
+        "data_hora": "2025-10-11T03:00:00.000Z"
+    },
+    {
+        "temperatura": 21.1,
+        "humidade": 46.2,
+        "luz": 5,
+        "data_hora": "2025-10-11T04:00:00.000Z"
+    },
+    {
+        "temperatura": 21.4,
+        "humidade": 40,
+        "luz": 5,
+        "data_hora": "2025-10-11T05:00:00.000Z"
+    },
+    {
+        "temperatura": 23.9,
+        "humidade": 49.1,
+        "luz": 21,
+        "data_hora": "2025-10-11T06:00:00.000Z"
+    },
+    {
+        "temperatura": 22.9,
+        "humidade": 68.8,
+        "luz": 899,
+        "data_hora": "2025-10-11T07:00:00.000Z"
+    },
+    {
+        "temperatura": 17.8,
+        "humidade": 60.2,
+        "luz": 838,
+        "data_hora": "2025-10-11T08:00:00.000Z"
+    },
+    {
+        "temperatura": 15.3,
+        "humidade": 67.7,
+        "luz": 653,
+        "data_hora": "2025-10-11T09:00:00.000Z"
+    },
+    {
+        "temperatura": 16.7,
+        "humidade": 44.8,
+        "luz": 346,
+        "data_hora": "2025-10-11T10:00:00.000Z"
+    },
+    {
+        "temperatura": 28.9,
+        "humidade": 53.9,
+        "luz": 735,
+        "data_hora": "2025-10-11T11:00:00.000Z"
+    },
+    {
+        "temperatura": 17.1,
+        "humidade": 77.2,
+        "luz": 859,
+        "data_hora": "2025-10-11T12:00:00.000Z"
+    },
+    {
+        "temperatura": 27.1,
+        "humidade": 42.9,
+        "luz": 94,
+        "data_hora": "2025-10-11T13:00:00.000Z"
+    },
+    {
+        "temperatura": 15.2,
+        "humidade": 73.1,
+        "luz": 167,
+        "data_hora": "2025-10-11T14:00:00.000Z"
+    },
+    {
+        "temperatura": 15.8,
+        "humidade": 55.4,
+        "luz": 647,
+        "data_hora": "2025-10-11T15:00:00.000Z"
+    },
+    {
+        "temperatura": 15.5,
+        "humidade": 51.1,
+        "luz": 862,
+        "data_hora": "2025-10-11T16:00:00.000Z"
+    },
+    {
+        "temperatura": 23.1,
+        "humidade": 41.1,
+        "luz": 976,
+        "data_hora": "2025-10-11T17:00:00.000Z"
+    },
+    {
+        "temperatura": 25,
+        "humidade": 55.6,
+        "luz": 12,
+        "data_hora": "2025-10-11T18:00:00.000Z"
+    },
+    {
+        "temperatura": 22,
+        "humidade": 42.6,
+        "luz": 25,
+        "data_hora": "2025-10-11T19:00:00.000Z"
+    },
+    {
+        "temperatura": 22.3,
+        "humidade": 68.6,
+        "luz": 24,
+        "data_hora": "2025-10-11T20:00:00.000Z"
+    },
+    {
+        "temperatura": 27,
+        "humidade": 68.4,
+        "luz": 14,
+        "data_hora": "2025-10-11T21:00:00.000Z"
+    },
+    {
+        "temperatura": 25.1,
+        "humidade": 57.3,
+        "luz": 26,
+        "data_hora": "2025-10-11T22:00:00.000Z"
+    },
+    {
+        "temperatura": 22.8,
+        "humidade": 67.9,
+        "luz": 26,
+        "data_hora": "2025-10-11T23:00:00.000Z"
+    },
+    {
+        "temperatura": 22.8,
+        "humidade": 41.3,
+        "luz": 21,
+        "data_hora": "2025-10-12T00:00:00.000Z"
+    },
+    {
+        "temperatura": 19.7,
+        "humidade": 60.1,
+        "luz": 9,
+        "data_hora": "2025-10-12T01:00:00.000Z"
+    },
+    {
+        "temperatura": 19.7,
+        "humidade": 79.6,
+        "luz": 27,
+        "data_hora": "2025-10-12T02:00:00.000Z"
+    },
+    {
+        "temperatura": 29.3,
+        "humidade": 76.7,
+        "luz": 13,
+        "data_hora": "2025-10-12T03:00:00.000Z"
+    },
+    {
+        "temperatura": 16.2,
+        "humidade": 72.9,
+        "luz": 4,
+        "data_hora": "2025-10-12T04:00:00.000Z"
+    },
+    {
+        "temperatura": 23,
+        "humidade": 49.8,
+        "luz": 28,
+        "data_hora": "2025-10-12T05:00:00.000Z"
+    },
+    {
+        "temperatura": 18.2,
+        "humidade": 42.1,
+        "luz": 2,
+        "data_hora": "2025-10-12T06:00:00.000Z"
+    },
+    {
+        "temperatura": 22.3,
+        "humidade": 70.5,
+        "luz": 71,
+        "data_hora": "2025-10-12T07:00:00.000Z"
+    },
+    {
+        "temperatura": 22.3,
+        "humidade": 55.4,
+        "luz": 148,
+        "data_hora": "2025-10-12T08:00:00.000Z"
+    },
+    {
+        "temperatura": 16.8,
+        "humidade": 54.6,
+        "luz": 396,
+        "data_hora": "2025-10-12T09:00:00.000Z"
+    },
+    {
+        "temperatura": 23.8,
+        "humidade": 79.9,
+        "luz": 879,
+        "data_hora": "2025-10-12T10:00:00.000Z"
+    },
+    {
+        "temperatura": 22.4,
+        "humidade": 41.8,
+        "luz": 129,
+        "data_hora": "2025-10-12T11:00:00.000Z"
+    },
+    {
+        "temperatura": 25.9,
+        "humidade": 43.4,
+        "luz": 269,
+        "data_hora": "2025-10-12T12:00:00.000Z"
+    },
+    {
+        "temperatura": 23.7,
+        "humidade": 52.2,
+        "luz": 729,
+        "data_hora": "2025-10-12T13:00:00.000Z"
+    },
+    {
+        "temperatura": 26.5,
+        "humidade": 72.3,
+        "luz": 545,
+        "data_hora": "2025-10-12T14:00:00.000Z"
+    },
+    {
+        "temperatura": 28.5,
+        "humidade": 76.6,
+        "luz": 756,
+        "data_hora": "2025-10-12T15:00:00.000Z"
+    },
+    {
+        "temperatura": 20.4,
+        "humidade": 54.7,
+        "luz": 536,
+        "data_hora": "2025-10-12T16:00:00.000Z"
+    },
+    {
+        "temperatura": 25.1,
+        "humidade": 64.2,
+        "luz": 354,
+        "data_hora": "2025-10-12T17:00:00.000Z"
+    },
+    {
+        "temperatura": 22.5,
+        "humidade": 71.6,
+        "luz": 19,
+        "data_hora": "2025-10-12T18:00:00.000Z"
+    },
+    {
+        "temperatura": 16.4,
+        "humidade": 69.9,
+        "luz": 4,
+        "data_hora": "2025-10-12T19:00:00.000Z"
+    },
+    {
+        "temperatura": 21.6,
+        "humidade": 72.2,
+        "luz": 20,
+        "data_hora": "2025-10-12T20:00:00.000Z"
+    },
+    {
+        "temperatura": 16.7,
+        "humidade": 67.6,
+        "luz": 3,
+        "data_hora": "2025-10-12T21:00:00.000Z"
+    },
+    {
+        "temperatura": 19.6,
+        "humidade": 75.3,
+        "luz": 13,
+        "data_hora": "2025-10-12T22:00:00.000Z"
+    },
+    {
+        "temperatura": 26.8,
+        "humidade": 57.6,
+        "luz": 23,
+        "data_hora": "2025-10-12T23:00:00.000Z"
+    },
+    {
+        "temperatura": 24.7,
+        "humidade": 70.1,
+        "luz": 1,
+        "data_hora": "2025-10-13T00:00:00.000Z"
+    },
+    {
+        "temperatura": 26.2,
+        "humidade": 73.6,
+        "luz": 5,
+        "data_hora": "2025-10-13T01:00:00.000Z"
+    },
+    {
+        "temperatura": 17.9,
+        "humidade": 58.6,
+        "luz": 6,
+        "data_hora": "2025-10-13T02:00:00.000Z"
+    },
+    {
+        "temperatura": 22.6,
+        "humidade": 71.2,
+        "luz": 12,
+        "data_hora": "2025-10-13T03:00:00.000Z"
+    },
+    {
+        "temperatura": 28.1,
+        "humidade": 46.1,
+        "luz": 21,
+        "data_hora": "2025-10-13T04:00:00.000Z"
+    },
+    {
+        "temperatura": 19.2,
+        "humidade": 63.7,
+        "luz": 25,
+        "data_hora": "2025-10-13T05:00:00.000Z"
+    },
+    {
+        "temperatura": 18.7,
+        "humidade": 62,
+        "luz": 23,
+        "data_hora": "2025-10-13T06:00:00.000Z"
+    },
+    {
+        "temperatura": 24.8,
+        "humidade": 60.2,
+        "luz": 959,
+        "data_hora": "2025-10-13T07:00:00.000Z"
+    },
+    {
+        "temperatura": 27.8,
+        "humidade": 60.1,
+        "luz": 591,
+        "data_hora": "2025-10-13T08:00:00.000Z"
+    },
+    {
+        "temperatura": 16.3,
+        "humidade": 74.8,
+        "luz": 615,
+        "data_hora": "2025-10-13T09:00:00.000Z"
+    },
+    {
+        "temperatura": 25.5,
+        "humidade": 69,
+        "luz": 783,
+        "data_hora": "2025-10-13T10:00:00.000Z"
+    },
+    {
+        "temperatura": 25.1,
+        "humidade": 58.5,
+        "luz": 521,
+        "data_hora": "2025-10-13T11:00:00.000Z"
+    },
+    {
+        "temperatura": 27.4,
+        "humidade": 60.7,
+        "luz": 927,
+        "data_hora": "2025-10-13T12:00:00.000Z"
+    },
+    {
+        "temperatura": 22.1,
+        "humidade": 67.5,
+        "luz": 994,
+        "data_hora": "2025-10-13T13:00:00.000Z"
+    },
+    {
+        "temperatura": 27,
+        "humidade": 68,
+        "luz": 92,
+        "data_hora": "2025-10-13T14:00:00.000Z"
+    },
+    {
+        "temperatura": 15.4,
+        "humidade": 59.3,
+        "luz": 883,
+        "data_hora": "2025-10-13T15:00:00.000Z"
+    },
+    {
+        "temperatura": 29.6,
+        "humidade": 58.4,
+        "luz": 395,
+        "data_hora": "2025-10-13T16:00:00.000Z"
+    },
+    {
+        "temperatura": 19.2,
+        "humidade": 70.8,
+        "luz": 344,
+        "data_hora": "2025-10-13T17:00:00.000Z"
+    },
+    {
+        "temperatura": 19,
+        "humidade": 44.6,
+        "luz": 15,
+        "data_hora": "2025-10-13T18:00:00.000Z"
+    },
+    {
+        "temperatura": 28.8,
+        "humidade": 75.6,
+        "luz": 15,
+        "data_hora": "2025-10-13T19:00:00.000Z"
+    },
+    {
+        "temperatura": 22.5,
+        "humidade": 44.1,
+        "luz": 18,
+        "data_hora": "2025-10-13T20:00:00.000Z"
+    },
+    {
+        "temperatura": 22,
+        "humidade": 69,
+        "luz": 6,
+        "data_hora": "2025-10-13T21:00:00.000Z"
+    },
+    {
+        "temperatura": 19.8,
+        "humidade": 46.7,
+        "luz": 14,
+        "data_hora": "2025-10-13T22:00:00.000Z"
+    },
+    {
+        "temperatura": 24.3,
+        "humidade": 55.1,
+        "luz": 4,
+        "data_hora": "2025-10-13T23:00:00.000Z"
+    },
+    {
+        "temperatura": 26.1,
+        "humidade": 49.9,
+        "luz": 19,
+        "data_hora": "2025-10-14T00:00:00.000Z"
+    },
+    {
+        "temperatura": 18.3,
+        "humidade": 59.2,
+        "luz": 29,
+        "data_hora": "2025-10-14T01:00:00.000Z"
+    },
+    {
+        "temperatura": 27.4,
+        "humidade": 79.7,
+        "luz": 28,
+        "data_hora": "2025-10-14T02:00:00.000Z"
+    },
+    {
+        "temperatura": 22.3,
+        "humidade": 60.6,
+        "luz": 1,
+        "data_hora": "2025-10-14T03:00:00.000Z"
+    },
+    {
+        "temperatura": 17.6,
+        "humidade": 42.6,
+        "luz": 17,
+        "data_hora": "2025-10-14T04:00:00.000Z"
+    },
+    {
+        "temperatura": 18.6,
+        "humidade": 77.6,
+        "luz": 23,
+        "data_hora": "2025-10-14T05:00:00.000Z"
+    },
+    {
+        "temperatura": 26,
+        "humidade": 61.4,
+        "luz": 16,
+        "data_hora": "2025-10-14T06:00:00.000Z"
+    },
+    {
+        "temperatura": 27.2,
+        "humidade": 42.5,
+        "luz": 253,
+        "data_hora": "2025-10-14T07:00:00.000Z"
+    },
+    {
+        "temperatura": 22.5,
+        "humidade": 72.8,
+        "luz": 132,
+        "data_hora": "2025-10-14T08:00:00.000Z"
+    },
+    {
+        "temperatura": 21.1,
+        "humidade": 78.5,
+        "luz": 896,
+        "data_hora": "2025-10-14T09:00:00.000Z"
+    },
+    {
+        "temperatura": 25.7,
+        "humidade": 57.5,
+        "luz": 947,
+        "data_hora": "2025-10-14T10:00:00.000Z"
+    },
+    {
+        "temperatura": 17.3,
+        "humidade": 58.7,
+        "luz": 233,
+        "data_hora": "2025-10-14T11:00:00.000Z"
+    },
+    {
+        "temperatura": 29.5,
+        "humidade": 54,
+        "luz": 86,
+        "data_hora": "2025-10-14T12:00:00.000Z"
+    },
+    {
+        "temperatura": 29.3,
+        "humidade": 63.9,
+        "luz": 117,
+        "data_hora": "2025-10-14T13:00:00.000Z"
+    },
+    {
+        "temperatura": 15.4,
+        "humidade": 65.4,
+        "luz": 981,
+        "data_hora": "2025-10-14T14:00:00.000Z"
+    },
+    {
+        "temperatura": 27,
+        "humidade": 74.1,
+        "luz": 118,
+        "data_hora": "2025-10-14T15:00:00.000Z"
+    },
+    {
+        "temperatura": 24.3,
+        "humidade": 48.2,
+        "luz": 935,
+        "data_hora": "2025-10-14T16:00:00.000Z"
+    },
+    {
+        "temperatura": 17.7,
+        "humidade": 48.3,
+        "luz": 910,
+        "data_hora": "2025-10-14T17:00:00.000Z"
+    },
+    {
+        "temperatura": 24,
+        "humidade": 46,
+        "luz": 6,
+        "data_hora": "2025-10-14T18:00:00.000Z"
+    },
+    {
+        "temperatura": 29.3,
+        "humidade": 72.9,
+        "luz": 19,
+        "data_hora": "2025-10-14T19:00:00.000Z"
+    },
+    {
+        "temperatura": 19,
+        "humidade": 58,
+        "luz": 11,
+        "data_hora": "2025-10-14T20:00:00.000Z"
+    },
+    {
+        "temperatura": 25,
+        "humidade": 71.8,
+        "luz": 2,
+        "data_hora": "2025-10-14T21:00:00.000Z"
+    },
+    {
+        "temperatura": 25.4,
+        "humidade": 79.6,
+        "luz": 18,
+        "data_hora": "2025-10-14T22:00:00.000Z"
+    },
+    {
+        "temperatura": 24.6,
+        "humidade": 48.8,
+        "luz": 27,
+        "data_hora": "2025-10-14T23:00:00.000Z"
+    },
+    {
+        "temperatura": 22.6,
+        "humidade": 66.4,
+        "luz": 25,
+        "data_hora": "2025-10-15T00:00:00.000Z"
+    },
+    {
+        "temperatura": 27,
+        "humidade": 45.6,
+        "luz": 19,
+        "data_hora": "2025-10-15T01:00:00.000Z"
+    },
+    {
+        "temperatura": 22.6,
+        "humidade": 65.9,
+        "luz": 11,
+        "data_hora": "2025-10-15T02:00:00.000Z"
+    },
+    {
+        "temperatura": 24.1,
+        "humidade": 71.5,
+        "luz": 16,
+        "data_hora": "2025-10-15T03:00:00.000Z"
+    },
+    {
+        "temperatura": 23.3,
+        "humidade": 56.9,
+        "luz": 23,
+        "data_hora": "2025-10-15T04:00:00.000Z"
+    },
+    {
+        "temperatura": 16,
+        "humidade": 63,
+        "luz": 12,
+        "data_hora": "2025-10-15T05:00:00.000Z"
+    },
+    {
+        "temperatura": 28.3,
+        "humidade": 49.3,
+        "luz": 4,
+        "data_hora": "2025-10-15T06:00:00.000Z"
+    },
+    {
+        "temperatura": 22.1,
+        "humidade": 54,
+        "luz": 299,
+        "data_hora": "2025-10-15T07:00:00.000Z"
+    },
+    {
+        "temperatura": 26.9,
+        "humidade": 78.9,
+        "luz": 535,
+        "data_hora": "2025-10-15T08:00:00.000Z"
+    },
+    {
+        "temperatura": 23.8,
+        "humidade": 59.4,
+        "luz": 631,
+        "data_hora": "2025-10-15T09:00:00.000Z"
+    },
+    {
+        "temperatura": 16.5,
+        "humidade": 51.6,
+        "luz": 956,
+        "data_hora": "2025-10-15T10:00:00.000Z"
+    },
+    {
+        "temperatura": 28.4,
+        "humidade": 74,
+        "luz": 561,
+        "data_hora": "2025-10-15T11:00:00.000Z"
+    },
+    {
+        "temperatura": 22,
+        "humidade": 66.7,
+        "luz": 662,
+        "data_hora": "2025-10-15T12:00:00.000Z"
+    },
+    {
+        "temperatura": 19.9,
+        "humidade": 68.5,
+        "luz": 778,
+        "data_hora": "2025-10-15T13:00:00.000Z"
+    },
+    {
+        "temperatura": 21.6,
+        "humidade": 73,
+        "luz": 208,
+        "data_hora": "2025-10-15T14:00:00.000Z"
+    },
+    {
+        "temperatura": 28.8,
+        "humidade": 74.3,
+        "luz": 478,
+        "data_hora": "2025-10-15T15:00:00.000Z"
+    },
+    {
+        "temperatura": 25.2,
+        "humidade": 42.8,
+        "luz": 941,
+        "data_hora": "2025-10-15T16:00:00.000Z"
+    },
+    {
+        "temperatura": 16.2,
+        "humidade": 62.5,
+        "luz": 392,
+        "data_hora": "2025-10-15T17:00:00.000Z"
+    },
+    {
+        "temperatura": 26.4,
+        "humidade": 62.1,
+        "luz": 13,
+        "data_hora": "2025-10-15T18:00:00.000Z"
+    },
+    {
+        "temperatura": 29.4,
+        "humidade": 69.6,
+        "luz": 26,
+        "data_hora": "2025-10-15T19:00:00.000Z"
+    },
+    {
+        "temperatura": 16.6,
+        "humidade": 74.3,
+        "luz": 23,
+        "data_hora": "2025-10-15T20:00:00.000Z"
+    },
+    {
+        "temperatura": 27,
+        "humidade": 69.3,
+        "luz": 27,
+        "data_hora": "2025-10-15T21:00:00.000Z"
+    },
+    {
+        "temperatura": 26.7,
+        "humidade": 41.9,
+        "luz": 25,
+        "data_hora": "2025-10-15T22:00:00.000Z"
+    },
+    {
+        "temperatura": 19.2,
+        "humidade": 61.1,
+        "luz": 13,
+        "data_hora": "2025-10-15T23:00:00.000Z"
+    },
+    {
+        "temperatura": 18.2,
+        "humidade": 51.6,
+        "luz": 19,
+        "data_hora": "2025-10-16T00:00:00.000Z"
+    },
+    {
+        "temperatura": 15.5,
+        "humidade": 46.3,
+        "luz": 17,
+        "data_hora": "2025-10-16T01:00:00.000Z"
+    },
+    {
+        "temperatura": 19,
+        "humidade": 47.8,
+        "luz": 22,
+        "data_hora": "2025-10-16T02:00:00.000Z"
+    },
+    {
+        "temperatura": 22.8,
+        "humidade": 49.4,
+        "luz": 15,
+        "data_hora": "2025-10-16T03:00:00.000Z"
+    },
+    {
+        "temperatura": 17.1,
+        "humidade": 50.5,
+        "luz": 28,
+        "data_hora": "2025-10-16T04:00:00.000Z"
+    },
+    {
+        "temperatura": 28.8,
+        "humidade": 56.1,
+        "luz": 11,
+        "data_hora": "2025-10-16T05:00:00.000Z"
+    },
+    {
+        "temperatura": 23.4,
+        "humidade": 69.2,
+        "luz": 9,
+        "data_hora": "2025-10-16T06:00:00.000Z"
+    },
+    {
+        "temperatura": 25.9,
+        "humidade": 71.7,
+        "luz": 150,
+        "data_hora": "2025-10-16T07:00:00.000Z"
+    },
+    {
+        "temperatura": 24.1,
+        "humidade": 41.4,
+        "luz": 728,
+        "data_hora": "2025-10-16T08:00:00.000Z"
+    },
+    {
+        "temperatura": 15.3,
+        "humidade": 62.4,
+        "luz": 198,
+        "data_hora": "2025-10-16T09:00:00.000Z"
+    },
+    {
+        "temperatura": 19.1,
+        "humidade": 41.5,
+        "luz": 804,
+        "data_hora": "2025-10-16T10:00:00.000Z"
+    },
+    {
+        "temperatura": 26.2,
+        "humidade": 48.5,
+        "luz": 922,
+        "data_hora": "2025-10-16T11:00:00.000Z"
+    },
+    {
+        "temperatura": 17.3,
+        "humidade": 58.4,
+        "luz": 532,
+        "data_hora": "2025-10-16T12:00:00.000Z"
+    },
+    {
+        "temperatura": 19.5,
+        "humidade": 50.2,
+        "luz": 700,
+        "data_hora": "2025-10-16T13:00:00.000Z"
+    },
+    {
+        "temperatura": 21.7,
+        "humidade": 42.6,
+        "luz": 747,
+        "data_hora": "2025-10-16T14:00:00.000Z"
+    },
+    {
+        "temperatura": 24.2,
+        "humidade": 52.5,
+        "luz": 888,
+        "data_hora": "2025-10-16T15:00:00.000Z"
+    },
+    {
+        "temperatura": 22,
+        "humidade": 46.6,
+        "luz": 519,
+        "data_hora": "2025-10-16T16:00:00.000Z"
+    },
+    {
+        "temperatura": 18.2,
+        "humidade": 76.4,
+        "luz": 762,
+        "data_hora": "2025-10-16T17:00:00.000Z"
+    },
+    {
+        "temperatura": 15.1,
+        "humidade": 76.7,
+        "luz": 6,
+        "data_hora": "2025-10-16T18:00:00.000Z"
+    },
+    {
+        "temperatura": 23.5,
+        "humidade": 50.7,
+        "luz": 17,
+        "data_hora": "2025-10-16T19:00:00.000Z"
+    },
+    {
+        "temperatura": 28.6,
+        "humidade": 52.7,
+        "luz": 16,
+        "data_hora": "2025-10-16T20:00:00.000Z"
+    },
+    {
+        "temperatura": 15.8,
+        "humidade": 65.5,
+        "luz": 2,
+        "data_hora": "2025-10-16T21:00:00.000Z"
+    },
+    {
+        "temperatura": 27,
+        "humidade": 43.9,
+        "luz": 11,
+        "data_hora": "2025-10-16T22:00:00.000Z"
+    },
+    {
+        "temperatura": 21.2,
+        "humidade": 68.9,
+        "luz": 2,
+        "data_hora": "2025-10-16T23:00:00.000Z"
+    },
+    {
+        "temperatura": 29.4,
+        "humidade": 60.1,
+        "luz": 20,
+        "data_hora": "2025-10-17T00:00:00.000Z"
+    },
+    {
+        "temperatura": 22.1,
+        "humidade": 61,
+        "luz": 24,
+        "data_hora": "2025-10-17T01:00:00.000Z"
+    },
+    {
+        "temperatura": 17.3,
+        "humidade": 51.1,
+        "luz": 1,
+        "data_hora": "2025-10-17T02:00:00.000Z"
+    },
+    {
+        "temperatura": 29.4,
+        "humidade": 68.3,
+        "luz": 28,
+        "data_hora": "2025-10-17T03:00:00.000Z"
+    },
+    {
+        "temperatura": 16.3,
+        "humidade": 66.9,
+        "luz": 16,
+        "data_hora": "2025-10-17T04:00:00.000Z"
+    },
+    {
+        "temperatura": 16.6,
+        "humidade": 54.5,
+        "luz": 5,
+        "data_hora": "2025-10-17T05:00:00.000Z"
+    },
+    {
+        "temperatura": 28.5,
+        "humidade": 65.8,
+        "luz": 19,
+        "data_hora": "2025-10-17T06:00:00.000Z"
+    },
+    {
+        "temperatura": 23.1,
+        "humidade": 66.3,
+        "luz": 869,
+        "data_hora": "2025-10-17T07:00:00.000Z"
+    },
+    {
+        "temperatura": 16.4,
+        "humidade": 49.9,
+        "luz": 712,
+        "data_hora": "2025-10-17T08:00:00.000Z"
+    },
+    {
+        "temperatura": 23.7,
+        "humidade": 59.4,
+        "luz": 155,
+        "data_hora": "2025-10-17T09:00:00.000Z"
+    },
+    {
+        "temperatura": 20.5,
+        "humidade": 62.1,
+        "luz": 497,
+        "data_hora": "2025-10-17T10:00:00.000Z"
+    },
+    {
+        "temperatura": 18.5,
+        "humidade": 41.5,
+        "luz": 112,
+        "data_hora": "2025-10-17T11:00:00.000Z"
+    },
+    {
+        "temperatura": 19,
+        "humidade": 68.5,
+        "luz": 143,
+        "data_hora": "2025-10-17T12:00:00.000Z"
+    },
+    {
+        "temperatura": 22.9,
+        "humidade": 45.7,
+        "luz": 458,
+        "data_hora": "2025-10-17T13:00:00.000Z"
+    },
+    {
+        "temperatura": 27.8,
+        "humidade": 75.5,
+        "luz": 210,
+        "data_hora": "2025-10-17T14:00:00.000Z"
+    },
+    {
+        "temperatura": 24.2,
+        "humidade": 42.4,
+        "luz": 412,
+        "data_hora": "2025-10-17T15:00:00.000Z"
+    },
+    {
+        "temperatura": 28.2,
+        "humidade": 49.9,
+        "luz": 846,
+        "data_hora": "2025-10-17T16:00:00.000Z"
+    },
+    {
+        "temperatura": 17.8,
+        "humidade": 45,
+        "luz": 320,
+        "data_hora": "2025-10-17T17:00:00.000Z"
+    },
+    {
+        "temperatura": 29.5,
+        "humidade": 64.7,
+        "luz": 5,
+        "data_hora": "2025-10-17T18:00:00.000Z"
+    },
+    {
+        "temperatura": 26.3,
+        "humidade": 55.6,
+        "luz": 22,
+        "data_hora": "2025-10-17T19:00:00.000Z"
+    },
+    {
+        "temperatura": 25.9,
+        "humidade": 63.8,
+        "luz": 26,
+        "data_hora": "2025-10-17T20:00:00.000Z"
+    },
+    {
+        "temperatura": 21.7,
+        "humidade": 61.3,
+        "luz": 26,
+        "data_hora": "2025-10-17T21:00:00.000Z"
+    },
+    {
+        "temperatura": 24,
+        "humidade": 47.2,
+        "luz": 26,
+        "data_hora": "2025-10-17T22:00:00.000Z"
+    },
+    {
+        "temperatura": 23.1,
+        "humidade": 44.8,
+        "luz": 9,
+        "data_hora": "2025-10-17T23:00:00.000Z"
+    },
+    {
+        "temperatura": 15.3,
+        "humidade": 50.5,
+        "luz": 20,
+        "data_hora": "2025-10-18T00:00:00.000Z"
+    },
+    {
+        "temperatura": 21.3,
+        "humidade": 61.4,
+        "luz": 25,
+        "data_hora": "2025-10-18T01:00:00.000Z"
+    },
+    {
+        "temperatura": 23.6,
+        "humidade": 63.3,
+        "luz": 15,
+        "data_hora": "2025-10-18T02:00:00.000Z"
+    },
+    {
+        "temperatura": 22.3,
+        "humidade": 64.7,
+        "luz": 11,
+        "data_hora": "2025-10-18T03:00:00.000Z"
+    },
+    {
+        "temperatura": 15.9,
+        "humidade": 57.3,
+        "luz": 25,
+        "data_hora": "2025-10-18T04:00:00.000Z"
+    },
+    {
+        "temperatura": 28.1,
+        "humidade": 74.5,
+        "luz": 3,
+        "data_hora": "2025-10-18T05:00:00.000Z"
+    },
+    {
+        "temperatura": 15.1,
+        "humidade": 62.2,
+        "luz": 23,
+        "data_hora": "2025-10-18T06:00:00.000Z"
+    },
+    {
+        "temperatura": 16.5,
+        "humidade": 65.3,
+        "luz": 841,
+        "data_hora": "2025-10-18T07:00:00.000Z"
+    },
+    {
+        "temperatura": 19.2,
+        "humidade": 58.5,
+        "luz": 234,
+        "data_hora": "2025-10-18T08:00:00.000Z"
+    },
+    {
+        "temperatura": 17.2,
+        "humidade": 77.1,
+        "luz": 880,
+        "data_hora": "2025-10-18T09:00:00.000Z"
+    },
+    {
+        "temperatura": 24,
+        "humidade": 55.9,
+        "luz": 900,
+        "data_hora": "2025-10-18T10:00:00.000Z"
+    },
+    {
+        "temperatura": 22.5,
+        "humidade": 54.9,
+        "luz": 670,
+        "data_hora": "2025-10-18T11:00:00.000Z"
+    },
+    {
+        "temperatura": 27.3,
+        "humidade": 74.2,
+        "luz": 813,
+        "data_hora": "2025-10-18T12:00:00.000Z"
+    },
+    {
+        "temperatura": 27,
+        "humidade": 55.3,
+        "luz": 202,
+        "data_hora": "2025-10-18T13:00:00.000Z"
+    },
+    {
+        "temperatura": 29.4,
+        "humidade": 76.4,
+        "luz": 310,
+        "data_hora": "2025-10-18T14:00:00.000Z"
+    },
+    {
+        "temperatura": 22.8,
+        "humidade": 60.3,
+        "luz": 204,
+        "data_hora": "2025-10-18T15:00:00.000Z"
+    },
+    {
+        "temperatura": 24.5,
+        "humidade": 60.5,
+        "luz": 76,
+        "data_hora": "2025-10-18T16:00:00.000Z"
+    },
+    {
+        "temperatura": 15.6,
+        "humidade": 77.6,
+        "luz": 939,
+        "data_hora": "2025-10-18T17:00:00.000Z"
+    },
+    {
+        "temperatura": 27.6,
+        "humidade": 73.2,
+        "luz": 22,
+        "data_hora": "2025-10-18T18:00:00.000Z"
+    },
+    {
+        "temperatura": 27.1,
+        "humidade": 67.9,
+        "luz": 5,
+        "data_hora": "2025-10-18T19:00:00.000Z"
+    },
+    {
+        "temperatura": 29.6,
+        "humidade": 56.1,
+        "luz": 22,
+        "data_hora": "2025-10-18T20:00:00.000Z"
+    },
+    {
+        "temperatura": 29.2,
+        "humidade": 61.7,
+        "luz": 30,
+        "data_hora": "2025-10-18T21:00:00.000Z"
+    },
+    {
+        "temperatura": 18.4,
+        "humidade": 59.1,
+        "luz": 9,
+        "data_hora": "2025-10-18T22:00:00.000Z"
+    },
+    {
+        "temperatura": 20.4,
+        "humidade": 46.3,
+        "luz": 30,
+        "data_hora": "2025-10-18T23:00:00.000Z"
+    },
+    {
+        "temperatura": 22.1,
+        "humidade": 64,
+        "luz": 25,
+        "data_hora": "2025-10-19T00:00:00.000Z"
+    },
+    {
+        "temperatura": 19,
+        "humidade": 72.6,
+        "luz": 17,
+        "data_hora": "2025-10-19T01:00:00.000Z"
+    },
+    {
+        "temperatura": 15.5,
+        "humidade": 61.1,
+        "luz": 23,
+        "data_hora": "2025-10-19T02:00:00.000Z"
+    },
+    {
+        "temperatura": 17.5,
+        "humidade": 56,
+        "luz": 19,
+        "data_hora": "2025-10-19T03:00:00.000Z"
+    },
+    {
+        "temperatura": 25.2,
+        "humidade": 75.1,
+        "luz": 26,
+        "data_hora": "2025-10-19T04:00:00.000Z"
+    },
+    {
+        "temperatura": 22.6,
+        "humidade": 47.9,
+        "luz": 19,
+        "data_hora": "2025-10-19T05:00:00.000Z"
+    },
+    {
+        "temperatura": 19.1,
+        "humidade": 61.7,
+        "luz": 20,
+        "data_hora": "2025-10-19T06:00:00.000Z"
+    },
+    {
+        "temperatura": 16.6,
+        "humidade": 61.7,
+        "luz": 125,
+        "data_hora": "2025-10-19T07:00:00.000Z"
+    },
+    {
+        "temperatura": 29.3,
+        "humidade": 43.8,
+        "luz": 132,
+        "data_hora": "2025-10-19T08:00:00.000Z"
+    },
+    {
+        "temperatura": 23.9,
+        "humidade": 47.1,
+        "luz": 527,
+        "data_hora": "2025-10-19T09:00:00.000Z"
+    },
+    {
+        "temperatura": 19.6,
+        "humidade": 60.8,
+        "luz": 77,
+        "data_hora": "2025-10-19T10:00:00.000Z"
+    },
+    {
+        "temperatura": 24.6,
+        "humidade": 52.5,
+        "luz": 455,
+        "data_hora": "2025-10-19T11:00:00.000Z"
+    },
+    {
+        "temperatura": 24.7,
+        "humidade": 67.1,
+        "luz": 184,
+        "data_hora": "2025-10-19T12:00:00.000Z"
+    },
+    {
+        "temperatura": 28.3,
+        "humidade": 62.8,
+        "luz": 926,
+        "data_hora": "2025-10-19T13:00:00.000Z"
+    },
+    {
+        "temperatura": 16.9,
+        "humidade": 63.2,
+        "luz": 302,
+        "data_hora": "2025-10-19T14:00:00.000Z"
+    },
+    {
+        "temperatura": 29.4,
+        "humidade": 65.6,
+        "luz": 588,
+        "data_hora": "2025-10-19T15:00:00.000Z"
+    },
+    {
+        "temperatura": 25.2,
+        "humidade": 48.9,
+        "luz": 723,
+        "data_hora": "2025-10-19T16:00:00.000Z"
+    },
+    {
+        "temperatura": 16.9,
+        "humidade": 50.4,
+        "luz": 985,
+        "data_hora": "2025-10-19T17:00:00.000Z"
+    },
+    {
+        "temperatura": 16.7,
+        "humidade": 68.3,
+        "luz": 11,
+        "data_hora": "2025-10-19T18:00:00.000Z"
+    },
+    {
+        "temperatura": 17.6,
+        "humidade": 44.8,
+        "luz": 21,
+        "data_hora": "2025-10-19T19:00:00.000Z"
+    },
+    {
+        "temperatura": 21.3,
+        "humidade": 60.5,
+        "luz": 28,
+        "data_hora": "2025-10-19T20:00:00.000Z"
+    },
+    {
+        "temperatura": 19.6,
+        "humidade": 72,
+        "luz": 7,
+        "data_hora": "2025-10-19T21:00:00.000Z"
+    },
+    {
+        "temperatura": 19.6,
+        "humidade": 58.7,
+        "luz": 15,
+        "data_hora": "2025-10-19T22:00:00.000Z"
+    },
+    {
+        "temperatura": 25.2,
+        "humidade": 69.9,
+        "luz": 13,
+        "data_hora": "2025-10-19T23:00:00.000Z"
+    },
+    {
+        "temperatura": 28.1,
+        "humidade": 79.2,
+        "luz": 5,
+        "data_hora": "2025-10-20T00:00:00.000Z"
+    },
+    {
+        "temperatura": 21,
+        "humidade": 42.6,
+        "luz": 6,
+        "data_hora": "2025-10-20T01:00:00.000Z"
+    },
+    {
+        "temperatura": 22.6,
+        "humidade": 49.4,
+        "luz": 25,
+        "data_hora": "2025-10-20T02:00:00.000Z"
+    },
+    {
+        "temperatura": 26.9,
+        "humidade": 41.7,
+        "luz": 23,
+        "data_hora": "2025-10-20T03:00:00.000Z"
+    },
+    {
+        "temperatura": 27.4,
+        "humidade": 74.8,
+        "luz": 15,
+        "data_hora": "2025-10-20T04:00:00.000Z"
+    },
+    {
+        "temperatura": 16.7,
+        "humidade": 51.6,
+        "luz": 22,
+        "data_hora": "2025-10-20T05:00:00.000Z"
+    },
+    {
+        "temperatura": 27.1,
+        "humidade": 44.6,
+        "luz": 18,
+        "data_hora": "2025-10-20T06:00:00.000Z"
+    },
+    {
+        "temperatura": 15.2,
+        "humidade": 63.4,
+        "luz": 625,
+        "data_hora": "2025-10-20T07:00:00.000Z"
+    },
+    {
+        "temperatura": 16.7,
+        "humidade": 55.9,
+        "luz": 366,
+        "data_hora": "2025-10-20T08:00:00.000Z"
+    },
+    {
+        "temperatura": 28,
+        "humidade": 68.5,
+        "luz": 723,
+        "data_hora": "2025-10-20T09:00:00.000Z"
+    },
+    {
+        "temperatura": 23.2,
+        "humidade": 79,
+        "luz": 287,
+        "data_hora": "2025-10-20T10:00:00.000Z"
+    },
+    {
+        "temperatura": 19.5,
+        "humidade": 54.6,
+        "luz": 951,
+        "data_hora": "2025-10-20T11:00:00.000Z"
+    },
+    {
+        "temperatura": 23.6,
+        "humidade": 43.3,
+        "luz": 674,
+        "data_hora": "2025-10-20T12:00:00.000Z"
+    },
+    {
+        "temperatura": 27.5,
+        "humidade": 76.9,
+        "luz": 507,
+        "data_hora": "2025-10-20T13:00:00.000Z"
+    },
+    {
+        "temperatura": 16.7,
+        "humidade": 63.2,
+        "luz": 704,
+        "data_hora": "2025-10-20T14:00:00.000Z"
+    },
+    {
+        "temperatura": 19.9,
+        "humidade": 42.8,
+        "luz": 711,
+        "data_hora": "2025-10-20T15:00:00.000Z"
+    },
+    {
+        "temperatura": 23.5,
+        "humidade": 69.2,
+        "luz": 778,
+        "data_hora": "2025-10-20T16:00:00.000Z"
+    },
+    {
+        "temperatura": 17.3,
+        "humidade": 66.8,
+        "luz": 571,
+        "data_hora": "2025-10-20T17:00:00.000Z"
+    },
+    {
+        "temperatura": 24.3,
+        "humidade": 48.4,
+        "luz": 1,
+        "data_hora": "2025-10-20T18:00:00.000Z"
+    },
+    {
+        "temperatura": 20,
+        "humidade": 45.3,
+        "luz": 9,
+        "data_hora": "2025-10-20T19:00:00.000Z"
+    },
+    {
+        "temperatura": 21.8,
+        "humidade": 43.2,
+        "luz": 22,
+        "data_hora": "2025-10-20T20:00:00.000Z"
+    },
+    {
+        "temperatura": 28.7,
+        "humidade": 72.5,
+        "luz": 21,
+        "data_hora": "2025-10-20T21:00:00.000Z"
+    },
+    {
+        "temperatura": 28.6,
+        "humidade": 45.1,
+        "luz": 1,
+        "data_hora": "2025-10-20T22:00:00.000Z"
+    },
+    {
+        "temperatura": 25.2,
+        "humidade": 53.6,
+        "luz": 18,
+        "data_hora": "2025-10-20T23:00:00.000Z"
+    },
+    {
+        "temperatura": 21.2,
+        "humidade": 63.3,
+        "luz": 24,
+        "data_hora": "2025-10-21T00:00:00.000Z"
+    },
+    {
+        "temperatura": 16.5,
+        "humidade": 55.1,
+        "luz": 13,
+        "data_hora": "2025-10-21T01:00:00.000Z"
+    },
+    {
+        "temperatura": 23,
+        "humidade": 56.2,
+        "luz": 20,
+        "data_hora": "2025-10-21T02:00:00.000Z"
+    },
+    {
+        "temperatura": 28,
+        "humidade": 66.7,
+        "luz": 12,
+        "data_hora": "2025-10-21T03:00:00.000Z"
+    },
+    {
+        "temperatura": 24.3,
+        "humidade": 72.5,
+        "luz": 1,
+        "data_hora": "2025-10-21T04:00:00.000Z"
+    },
+    {
+        "temperatura": 25.7,
+        "humidade": 47.4,
+        "luz": 29,
+        "data_hora": "2025-10-21T05:00:00.000Z"
+    },
+    {
+        "temperatura": 18.3,
+        "humidade": 41.8,
+        "luz": 2,
+        "data_hora": "2025-10-21T06:00:00.000Z"
+    },
+    {
+        "temperatura": 27,
+        "humidade": 41.2,
+        "luz": 767,
+        "data_hora": "2025-10-21T07:00:00.000Z"
+    },
+    {
+        "temperatura": 29.1,
+        "humidade": 45.1,
+        "luz": 181,
+        "data_hora": "2025-10-21T08:00:00.000Z"
+    },
+    {
+        "temperatura": 20,
+        "humidade": 42.3,
+        "luz": 641,
+        "data_hora": "2025-10-21T09:00:00.000Z"
+    },
+    {
+        "temperatura": 28.3,
+        "humidade": 51.3,
+        "luz": 388,
+        "data_hora": "2025-10-21T10:00:00.000Z"
+    },
+    {
+        "temperatura": 20,
+        "humidade": 50.9,
+        "luz": 696,
+        "data_hora": "2025-10-21T11:00:00.000Z"
+    },
+    {
+        "temperatura": 24.6,
+        "humidade": 42.8,
+        "luz": 253,
+        "data_hora": "2025-10-21T12:00:00.000Z"
+    },
+    {
+        "temperatura": 25.7,
+        "humidade": 76.6,
+        "luz": 487,
+        "data_hora": "2025-10-21T13:00:00.000Z"
+    },
+    {
+        "temperatura": 16.9,
+        "humidade": 54.1,
+        "luz": 719,
+        "data_hora": "2025-10-21T14:00:00.000Z"
+    },
+    {
+        "temperatura": 16.1,
+        "humidade": 53.8,
+        "luz": 951,
+        "data_hora": "2025-10-21T15:00:00.000Z"
+    },
+    {
+        "temperatura": 21.8,
+        "humidade": 56.3,
+        "luz": 446,
+        "data_hora": "2025-10-21T16:00:00.000Z"
+    },
+    {
+        "temperatura": 27.2,
+        "humidade": 72.6,
+        "luz": 954,
+        "data_hora": "2025-10-21T17:00:00.000Z"
+    },
+    {
+        "temperatura": 18.3,
+        "humidade": 70.1,
+        "luz": 11,
+        "data_hora": "2025-10-21T18:00:00.000Z"
+    },
+    {
+        "temperatura": 15.3,
+        "humidade": 49.9,
+        "luz": 22,
+        "data_hora": "2025-10-21T19:00:00.000Z"
+    },
+    {
+        "temperatura": 23.7,
+        "humidade": 71.6,
+        "luz": 12,
+        "data_hora": "2025-10-21T20:00:00.000Z"
+    },
+    {
+        "temperatura": 26.7,
+        "humidade": 65.1,
+        "luz": 10,
+        "data_hora": "2025-10-21T21:00:00.000Z"
+    },
+    {
+        "temperatura": 21.4,
+        "humidade": 70.1,
+        "luz": 16,
+        "data_hora": "2025-10-21T22:00:00.000Z"
+    },
+    {
+        "temperatura": 25.7,
+        "humidade": 55.6,
+        "luz": 29,
+        "data_hora": "2025-10-21T23:00:00.000Z"
+    },
+    {
+        "temperatura": 17.4,
+        "humidade": 67.9,
+        "luz": 24,
+        "data_hora": "2025-10-22T00:00:00.000Z"
+    },
+    {
+        "temperatura": 19.1,
+        "humidade": 50.1,
+        "luz": 25,
+        "data_hora": "2025-10-22T01:00:00.000Z"
+    },
+    {
+        "temperatura": 20.7,
+        "humidade": 78.3,
+        "luz": 17,
+        "data_hora": "2025-10-22T02:00:00.000Z"
+    },
+    {
+        "temperatura": 20.8,
+        "humidade": 69.2,
+        "luz": 29,
+        "data_hora": "2025-10-22T03:00:00.000Z"
+    },
+    {
+        "temperatura": 21.5,
+        "humidade": 77.2,
+        "luz": 27,
+        "data_hora": "2025-10-22T04:00:00.000Z"
+    },
+    {
+        "temperatura": 19.8,
+        "humidade": 63.2,
+        "luz": 29,
+        "data_hora": "2025-10-22T05:00:00.000Z"
+    },
+    {
+        "temperatura": 26.3,
+        "humidade": 67.1,
+        "luz": 2,
+        "data_hora": "2025-10-22T06:00:00.000Z"
+    },
+    {
+        "temperatura": 24.6,
+        "humidade": 44.4,
+        "luz": 408,
+        "data_hora": "2025-10-22T07:00:00.000Z"
+    },
+    {
+        "temperatura": 19.7,
+        "humidade": 52.2,
+        "luz": 658,
+        "data_hora": "2025-10-22T08:00:00.000Z"
+    },
+    {
+        "temperatura": 21.8,
+        "humidade": 79.2,
+        "luz": 795,
+        "data_hora": "2025-10-22T09:00:00.000Z"
+    },
+    {
+        "temperatura": 22.5,
+        "humidade": 53.4,
+        "luz": 717,
+        "data_hora": "2025-10-22T10:00:00.000Z"
+    },
+    {
+        "temperatura": 16.1,
+        "humidade": 65,
+        "luz": 705,
+        "data_hora": "2025-10-22T11:00:00.000Z"
+    },
+    {
+        "temperatura": 20.4,
+        "humidade": 47.5,
+        "luz": 845,
+        "data_hora": "2025-10-22T12:00:00.000Z"
+    },
+    {
+        "temperatura": 23.9,
+        "humidade": 51.8,
+        "luz": 71,
+        "data_hora": "2025-10-22T13:00:00.000Z"
+    },
+    {
+        "temperatura": 22.6,
+        "humidade": 62,
+        "luz": 650,
+        "data_hora": "2025-10-22T14:00:00.000Z"
+    },
+    {
+        "temperatura": 23.7,
+        "humidade": 45,
+        "luz": 701,
+        "data_hora": "2025-10-22T15:00:00.000Z"
+    },
+    {
+        "temperatura": 19.9,
+        "humidade": 55.5,
+        "luz": 89,
+        "data_hora": "2025-10-22T16:00:00.000Z"
+    },
+    {
+        "temperatura": 25.8,
+        "humidade": 72.1,
+        "luz": 779,
+        "data_hora": "2025-10-22T17:00:00.000Z"
+    },
+    {
+        "temperatura": 20.9,
+        "humidade": 60.1,
+        "luz": 24,
+        "data_hora": "2025-10-22T18:00:00.000Z"
+    },
+    {
+        "temperatura": 28.8,
+        "humidade": 62.4,
+        "luz": 24,
+        "data_hora": "2025-10-22T19:00:00.000Z"
+    },
+    {
+        "temperatura": 26.2,
+        "humidade": 64.5,
+        "luz": 28,
+        "data_hora": "2025-10-22T20:00:00.000Z"
+    },
+    {
+        "temperatura": 28.9,
+        "humidade": 55.7,
+        "luz": 14,
+        "data_hora": "2025-10-22T21:00:00.000Z"
+    },
+    {
+        "temperatura": 24.6,
+        "humidade": 56.6,
+        "luz": 22,
+        "data_hora": "2025-10-22T22:00:00.000Z"
+    },
+    {
+        "temperatura": 26.3,
+        "humidade": 50.7,
+        "luz": 16,
+        "data_hora": "2025-10-22T23:00:00.000Z"
+    },
+    {
+        "temperatura": 19.2,
+        "humidade": 74,
+        "luz": 21,
+        "data_hora": "2025-10-23T00:00:00.000Z"
+    },
+    {
+        "temperatura": 27.3,
+        "humidade": 72.5,
+        "luz": 8,
+        "data_hora": "2025-10-23T01:00:00.000Z"
+    },
+    {
+        "temperatura": 20.9,
+        "humidade": 59,
+        "luz": 8,
+        "data_hora": "2025-10-23T02:00:00.000Z"
+    },
+    {
+        "temperatura": 16.6,
+        "humidade": 40.3,
+        "luz": 12,
+        "data_hora": "2025-10-23T03:00:00.000Z"
+    },
+    {
+        "temperatura": 27,
+        "humidade": 43.4,
+        "luz": 13,
+        "data_hora": "2025-10-23T04:00:00.000Z"
+    },
+    {
+        "temperatura": 19.7,
+        "humidade": 56.1,
+        "luz": 17,
+        "data_hora": "2025-10-23T05:00:00.000Z"
+    },
+    {
+        "temperatura": 20.8,
+        "humidade": 43.9,
+        "luz": 7,
+        "data_hora": "2025-10-23T06:00:00.000Z"
+    },
+    {
+        "temperatura": 26.9,
+        "humidade": 49.3,
+        "luz": 154,
+        "data_hora": "2025-10-23T07:00:00.000Z"
+    },
+    {
+        "temperatura": 17.9,
+        "humidade": 53.5,
+        "luz": 463,
+        "data_hora": "2025-10-23T08:00:00.000Z"
+    },
+    {
+        "temperatura": 29.8,
+        "humidade": 49.4,
+        "luz": 754,
+        "data_hora": "2025-10-23T09:00:00.000Z"
+    },
+    {
+        "temperatura": 21.9,
+        "humidade": 49.2,
+        "luz": 106,
+        "data_hora": "2025-10-23T10:00:00.000Z"
+    },
+    {
+        "temperatura": 25.6,
+        "humidade": 65.4,
+        "luz": 155,
+        "data_hora": "2025-10-23T11:00:00.000Z"
+    },
+    {
+        "temperatura": 22.9,
+        "humidade": 73.2,
+        "luz": 95,
+        "data_hora": "2025-10-23T12:00:00.000Z"
+    },
+    {
+        "temperatura": 20.8,
+        "humidade": 70.1,
+        "luz": 631,
+        "data_hora": "2025-10-23T13:00:00.000Z"
+    },
+    {
+        "temperatura": 27.9,
+        "humidade": 59,
+        "luz": 307,
+        "data_hora": "2025-10-23T14:00:00.000Z"
+    },
+    {
+        "temperatura": 19.8,
+        "humidade": 59.6,
+        "luz": 820,
+        "data_hora": "2025-10-23T15:00:00.000Z"
+    },
+    {
+        "temperatura": 27.7,
+        "humidade": 40.8,
+        "luz": 783,
+        "data_hora": "2025-10-23T16:00:00.000Z"
+    },
+    {
+        "temperatura": 17.5,
+        "humidade": 78,
+        "luz": 616,
+        "data_hora": "2025-10-23T17:00:00.000Z"
+    },
+    {
+        "temperatura": 16.6,
+        "humidade": 54.1,
+        "luz": 4,
+        "data_hora": "2025-10-23T18:00:00.000Z"
+    },
+    {
+        "temperatura": 26.3,
+        "humidade": 59.4,
+        "luz": 13,
+        "data_hora": "2025-10-23T19:00:00.000Z"
+    },
+    {
+        "temperatura": 25.3,
+        "humidade": 58.5,
+        "luz": 14,
+        "data_hora": "2025-10-23T20:00:00.000Z"
+    },
+    {
+        "temperatura": 15.4,
+        "humidade": 56.3,
+        "luz": 16,
+        "data_hora": "2025-10-23T21:00:00.000Z"
+    },
+    {
+        "temperatura": 27.5,
+        "humidade": 66.6,
+        "luz": 25,
+        "data_hora": "2025-10-23T22:00:00.000Z"
+    },
+    {
+        "temperatura": 27,
+        "humidade": 71,
+        "luz": 9,
+        "data_hora": "2025-10-23T23:00:00.000Z"
+    },
+    {
+        "temperatura": 25.7,
+        "humidade": 41.2,
+        "luz": 22,
+        "data_hora": "2025-10-24T00:00:00.000Z"
+    },
+    {
+        "temperatura": 18.6,
+        "humidade": 66.7,
+        "luz": 5,
+        "data_hora": "2025-10-24T01:00:00.000Z"
+    },
+    {
+        "temperatura": 24.7,
+        "humidade": 41.5,
+        "luz": 10,
+        "data_hora": "2025-10-24T02:00:00.000Z"
+    },
+    {
+        "temperatura": 22.3,
+        "humidade": 49.4,
+        "luz": 3,
+        "data_hora": "2025-10-24T03:00:00.000Z"
+    },
+    {
+        "temperatura": 22.3,
+        "humidade": 46.7,
+        "luz": 5,
+        "data_hora": "2025-10-24T04:00:00.000Z"
+    },
+    {
+        "temperatura": 24.3,
+        "humidade": 69,
+        "luz": 16,
+        "data_hora": "2025-10-24T05:00:00.000Z"
+    },
+    {
+        "temperatura": 18.2,
+        "humidade": 65.7,
+        "luz": 28,
+        "data_hora": "2025-10-24T06:00:00.000Z"
+    },
+    {
+        "temperatura": 22.7,
+        "humidade": 58,
+        "luz": 746,
+        "data_hora": "2025-10-24T07:00:00.000Z"
+    },
+    {
+        "temperatura": 17.5,
+        "humidade": 79.2,
+        "luz": 206,
+        "data_hora": "2025-10-24T08:00:00.000Z"
+    },
+    {
+        "temperatura": 28.8,
+        "humidade": 48.7,
+        "luz": 985,
+        "data_hora": "2025-10-24T09:00:00.000Z"
+    },
+    {
+        "temperatura": 29.7,
+        "humidade": 50.2,
+        "luz": 665,
+        "data_hora": "2025-10-24T10:00:00.000Z"
+    },
+    {
+        "temperatura": 20.9,
+        "humidade": 61.7,
+        "luz": 591,
+        "data_hora": "2025-10-24T11:00:00.000Z"
+    },
+    {
+        "temperatura": 15.3,
+        "humidade": 63.6,
+        "luz": 54,
+        "data_hora": "2025-10-24T12:00:00.000Z"
+    },
+    {
+        "temperatura": 26.1,
+        "humidade": 54.3,
+        "luz": 130,
+        "data_hora": "2025-10-24T13:00:00.000Z"
+    },
+    {
+        "temperatura": 22.4,
+        "humidade": 68.2,
+        "luz": 616,
+        "data_hora": "2025-10-24T14:00:00.000Z"
+    },
+    {
+        "temperatura": 17.8,
+        "humidade": 46.3,
+        "luz": 490,
+        "data_hora": "2025-10-24T15:00:00.000Z"
+    },
+    {
+        "temperatura": 28.6,
+        "humidade": 49.1,
+        "luz": 757,
+        "data_hora": "2025-10-24T16:00:00.000Z"
+    },
+    {
+        "temperatura": 25.5,
+        "humidade": 75.7,
+        "luz": 532,
+        "data_hora": "2025-10-24T17:00:00.000Z"
+    },
+    {
+        "temperatura": 17.7,
+        "humidade": 53.5,
+        "luz": 20,
+        "data_hora": "2025-10-24T18:00:00.000Z"
+    },
+    {
+        "temperatura": 23,
+        "humidade": 66.7,
+        "luz": 17,
+        "data_hora": "2025-10-24T19:00:00.000Z"
+    },
+    {
+        "temperatura": 21.2,
+        "humidade": 46,
+        "luz": 1,
+        "data_hora": "2025-10-24T20:00:00.000Z"
+    },
+    {
+        "temperatura": 26.7,
+        "humidade": 68.5,
+        "luz": 27,
+        "data_hora": "2025-10-24T21:00:00.000Z"
+    },
+    {
+        "temperatura": 26.9,
+        "humidade": 58.1,
+        "luz": 16,
+        "data_hora": "2025-10-24T22:00:00.000Z"
+    },
+    {
+        "temperatura": 16.9,
+        "humidade": 43,
+        "luz": 12,
+        "data_hora": "2025-10-24T23:00:00.000Z"
+    },
+    {
+        "temperatura": 20.9,
+        "humidade": 49,
+        "luz": 26,
+        "data_hora": "2025-10-25T00:00:00.000Z"
+    },
+    {
+        "temperatura": 24.7,
+        "humidade": 40.3,
+        "luz": 8,
+        "data_hora": "2025-10-25T01:00:00.000Z"
+    },
+    {
+        "temperatura": 29.5,
+        "humidade": 46.9,
+        "luz": 11,
+        "data_hora": "2025-10-25T02:00:00.000Z"
+    },
+    {
+        "temperatura": 17.3,
+        "humidade": 79.3,
+        "luz": 14,
+        "data_hora": "2025-10-25T03:00:00.000Z"
+    },
+    {
+        "temperatura": 29.9,
+        "humidade": 41.2,
+        "luz": 21,
+        "data_hora": "2025-10-25T04:00:00.000Z"
+    },
+    {
+        "temperatura": 23.2,
+        "humidade": 70.2,
+        "luz": 23,
+        "data_hora": "2025-10-25T05:00:00.000Z"
+    },
+    {
+        "temperatura": 18,
+        "humidade": 62,
+        "luz": 16,
+        "data_hora": "2025-10-25T06:00:00.000Z"
+    },
+    {
+        "temperatura": 19.7,
+        "humidade": 73.3,
+        "luz": 370,
+        "data_hora": "2025-10-25T07:00:00.000Z"
+    },
+    {
+        "temperatura": 25,
+        "humidade": 41.9,
+        "luz": 873,
+        "data_hora": "2025-10-25T08:00:00.000Z"
+    },
+    {
+        "temperatura": 27.6,
+        "humidade": 76.3,
+        "luz": 367,
+        "data_hora": "2025-10-25T09:00:00.000Z"
+    },
+    {
+        "temperatura": 15.6,
+        "humidade": 72.5,
+        "luz": 920,
+        "data_hora": "2025-10-25T10:00:00.000Z"
+    },
+    {
+        "temperatura": 23.9,
+        "humidade": 79.5,
+        "luz": 994,
+        "data_hora": "2025-10-25T11:00:00.000Z"
+    },
+    {
+        "temperatura": 25.7,
+        "humidade": 68.3,
+        "luz": 917,
+        "data_hora": "2025-10-25T12:00:00.000Z"
+    },
+    {
+        "temperatura": 25.4,
+        "humidade": 64.2,
+        "luz": 752,
+        "data_hora": "2025-10-25T13:00:00.000Z"
+    },
+    {
+        "temperatura": 26.5,
+        "humidade": 60.2,
+        "luz": 555,
+        "data_hora": "2025-10-25T14:00:00.000Z"
+    },
+    {
+        "temperatura": 22.9,
+        "humidade": 45.5,
+        "luz": 685,
+        "data_hora": "2025-10-25T15:00:00.000Z"
+    },
+    {
+        "temperatura": 16.1,
+        "humidade": 61.8,
+        "luz": 526,
+        "data_hora": "2025-10-25T16:00:00.000Z"
+    },
+    {
+        "temperatura": 25.7,
+        "humidade": 65.3,
+        "luz": 382,
+        "data_hora": "2025-10-25T17:00:00.000Z"
+    },
+    {
+        "temperatura": 15.2,
+        "humidade": 56.2,
+        "luz": 10,
+        "data_hora": "2025-10-25T18:00:00.000Z"
+    },
+    {
+        "temperatura": 23.3,
+        "humidade": 45.6,
+        "luz": 17,
+        "data_hora": "2025-10-25T19:00:00.000Z"
+    },
+    {
+        "temperatura": 21.4,
+        "humidade": 46.6,
+        "luz": 14,
+        "data_hora": "2025-10-25T20:00:00.000Z"
+    },
+    {
+        "temperatura": 26,
+        "humidade": 57.3,
+        "luz": 28,
+        "data_hora": "2025-10-25T21:00:00.000Z"
+    },
+    {
+        "temperatura": 24.2,
+        "humidade": 57.3,
+        "luz": 16,
+        "data_hora": "2025-10-25T22:00:00.000Z"
+    },
+    {
+        "temperatura": 25.3,
+        "humidade": 42.8,
+        "luz": 12,
+        "data_hora": "2025-10-25T23:00:00.000Z"
+    },
+    {
+        "temperatura": 16.4,
+        "humidade": 77.8,
+        "luz": 3,
+        "data_hora": "2025-10-26T00:00:00.000Z"
+    },
+    {
+        "temperatura": 26.7,
+        "humidade": 56.3,
+        "luz": 19,
+        "data_hora": "2025-10-26T02:00:00.000Z"
+    },
+    {
+        "temperatura": 15.2,
+        "humidade": 79.8,
+        "luz": 20,
+        "data_hora": "2025-10-26T03:00:00.000Z"
+    },
+    {
+        "temperatura": 23.3,
+        "humidade": 54.4,
+        "luz": 16,
+        "data_hora": "2025-10-26T04:00:00.000Z"
+    },
+    {
+        "temperatura": 22.2,
+        "humidade": 43.3,
+        "luz": 29,
+        "data_hora": "2025-10-26T05:00:00.000Z"
+    },
+    {
+        "temperatura": 26.2,
+        "humidade": 51.9,
+        "luz": 12,
+        "data_hora": "2025-10-26T06:00:00.000Z"
+    },
+    {
+        "temperatura": 18.2,
+        "humidade": 60.3,
+        "luz": 18,
+        "data_hora": "2025-10-26T07:00:00.000Z"
+    },
+    {
+        "temperatura": 24.1,
+        "humidade": 40.4,
+        "luz": 315,
+        "data_hora": "2025-10-26T08:00:00.000Z"
+    },
+    {
+        "temperatura": 21,
+        "humidade": 54.6,
+        "luz": 785,
+        "data_hora": "2025-10-26T09:00:00.000Z"
+    },
+    {
+        "temperatura": 27.6,
+        "humidade": 71.3,
+        "luz": 948,
+        "data_hora": "2025-10-26T10:00:00.000Z"
+    },
+    {
+        "temperatura": 26.1,
+        "humidade": 56.7,
+        "luz": 588,
+        "data_hora": "2025-10-26T11:00:00.000Z"
+    },
+    {
+        "temperatura": 15.6,
+        "humidade": 41.1,
+        "luz": 644,
+        "data_hora": "2025-10-26T12:00:00.000Z"
+    },
+    {
+        "temperatura": 21.3,
+        "humidade": 50.8,
+        "luz": 644,
+        "data_hora": "2025-10-26T13:00:00.000Z"
+    },
+    {
+        "temperatura": 25.7,
+        "humidade": 57.6,
+        "luz": 545,
+        "data_hora": "2025-10-26T14:00:00.000Z"
+    },
+    {
+        "temperatura": 22.3,
+        "humidade": 57.3,
+        "luz": 122,
+        "data_hora": "2025-10-26T15:00:00.000Z"
+    },
+    {
+        "temperatura": 23.9,
+        "humidade": 50.7,
+        "luz": 276,
+        "data_hora": "2025-10-26T16:00:00.000Z"
+    },
+    {
+        "temperatura": 25.7,
+        "humidade": 71.3,
+        "luz": 779,
+        "data_hora": "2025-10-26T17:00:00.000Z"
+    },
+    {
+        "temperatura": 19.4,
+        "humidade": 73.1,
+        "luz": 858,
+        "data_hora": "2025-10-26T18:00:00.000Z"
+    },
+    {
+        "temperatura": 24.9,
+        "humidade": 58.9,
+        "luz": 17,
+        "data_hora": "2025-10-26T19:00:00.000Z"
+    },
+    {
+        "temperatura": 24.6,
+        "humidade": 70.7,
+        "luz": 10,
+        "data_hora": "2025-10-26T20:00:00.000Z"
+    },
+    {
+        "temperatura": 21.3,
+        "humidade": 52.1,
+        "luz": 3,
+        "data_hora": "2025-10-26T21:00:00.000Z"
+    },
+    {
+        "temperatura": 19.8,
+        "humidade": 50.7,
+        "luz": 20,
+        "data_hora": "2025-10-26T22:00:00.000Z"
+    },
+    {
+        "temperatura": 23.1,
+        "humidade": 47.3,
+        "luz": 15,
+        "data_hora": "2025-10-26T23:00:00.000Z"
+    },
+    {
+        "temperatura": 21.4,
+        "humidade": 60.2,
+        "luz": 2,
+        "data_hora": "2025-10-27T00:00:00.000Z"
+    },
+    {
+        "temperatura": 21.7,
+        "humidade": 47.6,
+        "luz": 17,
+        "data_hora": "2025-10-27T01:00:00.000Z"
+    },
+    {
+        "temperatura": 27.9,
+        "humidade": 79.8,
+        "luz": 26,
+        "data_hora": "2025-10-27T02:00:00.000Z"
+    },
+    {
+        "temperatura": 23.5,
+        "humidade": 54.2,
+        "luz": 17,
+        "data_hora": "2025-10-27T03:00:00.000Z"
+    },
+    {
+        "temperatura": 23.7,
+        "humidade": 49.9,
+        "luz": 6,
+        "data_hora": "2025-10-27T04:00:00.000Z"
+    },
+    {
+        "temperatura": 29.9,
+        "humidade": 55.7,
+        "luz": 10,
+        "data_hora": "2025-10-27T05:00:00.000Z"
+    },
+    {
+        "temperatura": 26.6,
+        "humidade": 45.9,
+        "luz": 13,
+        "data_hora": "2025-10-27T06:00:00.000Z"
+    },
+    {
+        "temperatura": 22.2,
+        "humidade": 47.2,
+        "luz": 16,
+        "data_hora": "2025-10-27T07:00:00.000Z"
+    },
+    {
+        "temperatura": 18.5,
+        "humidade": 77,
+        "luz": 453,
+        "data_hora": "2025-10-27T08:00:00.000Z"
+    },
+    {
+        "temperatura": 28.3,
+        "humidade": 56.4,
+        "luz": 421,
+        "data_hora": "2025-10-27T09:00:00.000Z"
+    },
+    {
+        "temperatura": 20.4,
+        "humidade": 73.7,
+        "luz": 395,
+        "data_hora": "2025-10-27T10:00:00.000Z"
+    },
+    {
+        "temperatura": 29.9,
+        "humidade": 71.8,
+        "luz": 861,
+        "data_hora": "2025-10-27T11:00:00.000Z"
+    },
+    {
+        "temperatura": 17.4,
+        "humidade": 68.8,
+        "luz": 690,
+        "data_hora": "2025-10-27T12:00:00.000Z"
+    },
+    {
+        "temperatura": 21,
+        "humidade": 78.3,
+        "luz": 196,
+        "data_hora": "2025-10-27T13:00:00.000Z"
+    },
+    {
+        "temperatura": 22.2,
+        "humidade": 59.2,
+        "luz": 539,
+        "data_hora": "2025-10-27T14:00:00.000Z"
+    },
+    {
+        "temperatura": 20.8,
+        "humidade": 47.1,
+        "luz": 655,
+        "data_hora": "2025-10-27T15:00:00.000Z"
+    },
+    {
+        "temperatura": 23.5,
+        "humidade": 41.1,
+        "luz": 457,
+        "data_hora": "2025-10-27T16:00:00.000Z"
+    },
+    {
+        "temperatura": 21.7,
+        "humidade": 44.7,
+        "luz": 731,
+        "data_hora": "2025-10-27T17:00:00.000Z"
+    },
+    {
+        "temperatura": 15.9,
+        "humidade": 68.3,
+        "luz": 649,
+        "data_hora": "2025-10-27T18:00:00.000Z"
+    },
+    {
+        "temperatura": 15.3,
+        "humidade": 79.3,
+        "luz": 27,
+        "data_hora": "2025-10-27T19:00:00.000Z"
+    },
+    {
+        "temperatura": 26.3,
+        "humidade": 72.8,
+        "luz": 3,
+        "data_hora": "2025-10-27T20:00:00.000Z"
+    },
+    {
+        "temperatura": 29.3,
+        "humidade": 53.1,
+        "luz": 22,
+        "data_hora": "2025-10-27T21:00:00.000Z"
+    },
+    {
+        "temperatura": 27.4,
+        "humidade": 50.6,
+        "luz": 12,
+        "data_hora": "2025-10-27T22:00:00.000Z"
+    },
+    {
+        "temperatura": 27.1,
+        "humidade": 77.5,
+        "luz": 19,
+        "data_hora": "2025-10-27T23:00:00.000Z"
+    },
+    {
+        "temperatura": 27.1,
+        "humidade": 45.3,
+        "luz": 10,
+        "data_hora": "2025-10-28T00:00:00.000Z"
+    },
+    {
+        "temperatura": 28.2,
+        "humidade": 75.3,
+        "luz": 29,
+        "data_hora": "2025-10-28T01:00:00.000Z"
+    },
+    {
+        "temperatura": 25,
+        "humidade": 45.1,
+        "luz": 12,
+        "data_hora": "2025-10-28T02:00:00.000Z"
+    },
+    {
+        "temperatura": 27,
+        "humidade": 54.9,
+        "luz": 6,
+        "data_hora": "2025-10-28T03:00:00.000Z"
+    },
+    {
+        "temperatura": 20.9,
+        "humidade": 46.8,
+        "luz": 21,
+        "data_hora": "2025-10-28T04:00:00.000Z"
+    },
+    {
+        "temperatura": 19.1,
+        "humidade": 50.4,
+        "luz": 27,
+        "data_hora": "2025-10-28T05:00:00.000Z"
+    },
+    {
+        "temperatura": 23.6,
+        "humidade": 61.9,
+        "luz": 19,
+        "data_hora": "2025-10-28T06:00:00.000Z"
+    },
+    {
+        "temperatura": 25.5,
+        "humidade": 70.6,
+        "luz": 21,
+        "data_hora": "2025-10-28T07:00:00.000Z"
+    },
+    {
+        "temperatura": 22,
+        "humidade": 43.6,
+        "luz": 983,
+        "data_hora": "2025-10-28T08:00:00.000Z"
+    },
+    {
+        "temperatura": 16.3,
+        "humidade": 52.5,
+        "luz": 630,
+        "data_hora": "2025-10-28T09:00:00.000Z"
+    },
+    {
+        "temperatura": 21.1,
+        "humidade": 41.4,
+        "luz": 968,
+        "data_hora": "2025-10-28T10:00:00.000Z"
+    },
+    {
+        "temperatura": 23.4,
+        "humidade": 70.4,
+        "luz": 177,
+        "data_hora": "2025-10-28T11:00:00.000Z"
+    },
+    {
+        "temperatura": 29.8,
+        "humidade": 58.9,
+        "luz": 123,
+        "data_hora": "2025-10-28T12:00:00.000Z"
+    },
+    {
+        "temperatura": 15.6,
+        "humidade": 60.7,
+        "luz": 492,
+        "data_hora": "2025-10-28T13:00:00.000Z"
+    },
+    {
+        "temperatura": 22.1,
+        "humidade": 65,
+        "luz": 781,
+        "data_hora": "2025-10-28T14:00:00.000Z"
+    },
+    {
+        "temperatura": 27.2,
+        "humidade": 45.7,
+        "luz": 446,
+        "data_hora": "2025-10-28T15:00:00.000Z"
+    },
+    {
+        "temperatura": 15.6,
+        "humidade": 73,
+        "luz": 928,
+        "data_hora": "2025-10-28T16:00:00.000Z"
+    },
+    {
+        "temperatura": 17.6,
+        "humidade": 60.7,
+        "luz": 438,
+        "data_hora": "2025-10-28T17:00:00.000Z"
+    },
+    {
+        "temperatura": 21.2,
+        "humidade": 58.7,
+        "luz": 784,
+        "data_hora": "2025-10-28T18:00:00.000Z"
+    },
+    {
+        "temperatura": 24.6,
+        "humidade": 50.9,
+        "luz": 2,
+        "data_hora": "2025-10-28T19:00:00.000Z"
+    },
+    {
+        "temperatura": 26.8,
+        "humidade": 67,
+        "luz": 21,
+        "data_hora": "2025-10-28T20:00:00.000Z"
+    },
+    {
+        "temperatura": 25.2,
+        "humidade": 54.3,
+        "luz": 20,
+        "data_hora": "2025-10-28T21:00:00.000Z"
+    },
+    {
+        "temperatura": 26.8,
+        "humidade": 71.1,
+        "luz": 28,
+        "data_hora": "2025-10-28T22:00:00.000Z"
+    },
+    {
+        "temperatura": 19.3,
+        "humidade": 40.5,
+        "luz": 18,
+        "data_hora": "2025-10-28T23:00:00.000Z"
+    },
+    {
+        "temperatura": 29.7,
+        "humidade": 72.7,
+        "luz": 29,
+        "data_hora": "2025-10-29T00:00:00.000Z"
+    },
+    {
+        "temperatura": 18.3,
+        "humidade": 63.7,
+        "luz": 10,
+        "data_hora": "2025-10-29T01:00:00.000Z"
+    },
+    {
+        "temperatura": 15.7,
+        "humidade": 63.8,
+        "luz": 15,
+        "data_hora": "2025-10-29T02:00:00.000Z"
+    },
+    {
+        "temperatura": 28.5,
+        "humidade": 65.5,
+        "luz": 24,
+        "data_hora": "2025-10-29T03:00:00.000Z"
+    },
+    {
+        "temperatura": 18.7,
+        "humidade": 62.4,
+        "luz": 3,
+        "data_hora": "2025-10-29T04:00:00.000Z"
+    },
+    {
+        "temperatura": 20.3,
+        "humidade": 49.3,
+        "luz": 30,
+        "data_hora": "2025-10-29T05:00:00.000Z"
+    },
+    {
+        "temperatura": 18.5,
+        "humidade": 66.2,
+        "luz": 5,
+        "data_hora": "2025-10-29T06:00:00.000Z"
+    },
+    {
+        "temperatura": 28.1,
+        "humidade": 54.2,
+        "luz": 21,
+        "data_hora": "2025-10-29T07:00:00.000Z"
+    },
+    {
+        "temperatura": 24.3,
+        "humidade": 71.3,
+        "luz": 126,
+        "data_hora": "2025-10-29T08:00:00.000Z"
+    },
+    {
+        "temperatura": 22.3,
+        "humidade": 41,
+        "luz": 221,
+        "data_hora": "2025-10-29T09:00:00.000Z"
+    },
+    {
+        "temperatura": 20.7,
+        "humidade": 66.7,
+        "luz": 358,
+        "data_hora": "2025-10-29T10:00:00.000Z"
+    },
+    {
+        "temperatura": 18.1,
+        "humidade": 73.5,
+        "luz": 372,
+        "data_hora": "2025-10-29T11:00:00.000Z"
+    },
+    {
+        "temperatura": 16.6,
+        "humidade": 43.1,
+        "luz": 770,
+        "data_hora": "2025-10-29T12:00:00.000Z"
+    },
+    {
+        "temperatura": 24.7,
+        "humidade": 49.5,
+        "luz": 146,
+        "data_hora": "2025-10-29T13:00:00.000Z"
+    },
+    {
+        "temperatura": 24.5,
+        "humidade": 57.8,
+        "luz": 278,
+        "data_hora": "2025-10-29T14:00:00.000Z"
+    },
+    {
+        "temperatura": 16.9,
+        "humidade": 70.9,
+        "luz": 124,
+        "data_hora": "2025-10-29T15:00:00.000Z"
+    },
+    {
+        "temperatura": 20.5,
+        "humidade": 48.7,
+        "luz": 774,
+        "data_hora": "2025-10-29T16:00:00.000Z"
+    },
+    {
+        "temperatura": 15.4,
+        "humidade": 45.7,
+        "luz": 949,
+        "data_hora": "2025-10-29T17:00:00.000Z"
+    },
+    {
+        "temperatura": 23.6,
+        "humidade": 67.6,
+        "luz": 669,
+        "data_hora": "2025-10-29T18:00:00.000Z"
+    },
+    {
+        "temperatura": 19.9,
+        "humidade": 75.4,
+        "luz": 18,
+        "data_hora": "2025-10-29T19:00:00.000Z"
+    },
+    {
+        "temperatura": 19.7,
+        "humidade": 49.1,
+        "luz": 3,
+        "data_hora": "2025-10-29T20:00:00.000Z"
+    },
+    {
+        "temperatura": 17.1,
+        "humidade": 58.6,
+        "luz": 24,
+        "data_hora": "2025-10-29T21:00:00.000Z"
+    },
+    {
+        "temperatura": 21.7,
+        "humidade": 53.5,
+        "luz": 0,
+        "data_hora": "2025-10-29T22:00:00.000Z"
+    },
+    {
+        "temperatura": 27.2,
+        "humidade": 49.7,
+        "luz": 26,
+        "data_hora": "2025-10-29T23:00:00.000Z"
+    },
+    {
+        "temperatura": 16.5,
+        "humidade": 71,
+        "luz": 6,
+        "data_hora": "2025-10-30T00:00:00.000Z"
+    },
+    {
+        "temperatura": 18.6,
+        "humidade": 41.4,
+        "luz": 7,
+        "data_hora": "2025-10-30T01:00:00.000Z"
+    },
+    {
+        "temperatura": 23.9,
+        "humidade": 54.9,
+        "luz": 4,
+        "data_hora": "2025-10-30T02:00:00.000Z"
+    },
+    {
+        "temperatura": 20.4,
+        "humidade": 75.4,
+        "luz": 28,
+        "data_hora": "2025-10-30T03:00:00.000Z"
+    },
+    {
+        "temperatura": 22.2,
+        "humidade": 74.9,
+        "luz": 29,
+        "data_hora": "2025-10-30T04:00:00.000Z"
+    },
+    {
+        "temperatura": 20.3,
+        "humidade": 40.5,
+        "luz": 9,
+        "data_hora": "2025-10-30T05:00:00.000Z"
+    },
+    {
+        "temperatura": 22,
+        "humidade": 64,
+        "luz": 9,
+        "data_hora": "2025-10-30T06:00:00.000Z"
+    },
+    {
+        "temperatura": 22.2,
+        "humidade": 54.7,
+        "luz": 18,
+        "data_hora": "2025-10-30T07:00:00.000Z"
+    },
+    {
+        "temperatura": 29.6,
+        "humidade": 53.8,
+        "luz": 858,
+        "data_hora": "2025-10-30T08:00:00.000Z"
+    },
+    {
+        "temperatura": 18.8,
+        "humidade": 67.6,
+        "luz": 679,
+        "data_hora": "2025-10-30T09:00:00.000Z"
+    },
+    {
+        "temperatura": 19.4,
+        "humidade": 41.1,
+        "luz": 731,
+        "data_hora": "2025-10-30T10:00:00.000Z"
+    },
+    {
+        "temperatura": 24.3,
+        "humidade": 73.1,
+        "luz": 933,
+        "data_hora": "2025-10-30T11:00:00.000Z"
+    },
+    {
+        "temperatura": 23.8,
+        "humidade": 56.8,
+        "luz": 332,
+        "data_hora": "2025-10-30T12:00:00.000Z"
+    },
+    {
+        "temperatura": 16.7,
+        "humidade": 54.6,
+        "luz": 715,
+        "data_hora": "2025-10-30T13:00:00.000Z"
+    },
+    {
+        "temperatura": 29.2,
+        "humidade": 48.1,
+        "luz": 490,
+        "data_hora": "2025-10-30T14:00:00.000Z"
+    },
+    {
+        "temperatura": 15.8,
+        "humidade": 58.2,
+        "luz": 104,
+        "data_hora": "2025-10-30T15:00:00.000Z"
+    },
+    {
+        "temperatura": 21.1,
+        "humidade": 69.9,
+        "luz": 51,
+        "data_hora": "2025-10-30T16:00:00.000Z"
+    },
+    {
+        "temperatura": 18.5,
+        "humidade": 78.4,
+        "luz": 711,
+        "data_hora": "2025-10-30T17:00:00.000Z"
+    },
+    {
+        "temperatura": 24.6,
+        "humidade": 68.2,
+        "luz": 390,
+        "data_hora": "2025-10-30T18:00:00.000Z"
+    },
+    {
+        "temperatura": 22.5,
+        "humidade": 54,
+        "luz": 28,
+        "data_hora": "2025-10-30T19:00:00.000Z"
+    },
+    {
+        "temperatura": 15.5,
+        "humidade": 45.8,
+        "luz": 6,
+        "data_hora": "2025-10-30T20:00:00.000Z"
+    },
+    {
+        "temperatura": 27.2,
+        "humidade": 43.5,
+        "luz": 24,
+        "data_hora": "2025-10-30T21:00:00.000Z"
+    },
+    {
+        "temperatura": 29,
+        "humidade": 53,
+        "luz": 7,
+        "data_hora": "2025-10-30T22:00:00.000Z"
+    },
+    {
+        "temperatura": 16.3,
+        "humidade": 76.3,
+        "luz": 9,
+        "data_hora": "2025-10-30T23:00:00.000Z"
+    },
+    {
+        "temperatura": 19.5,
+        "humidade": 78.9,
+        "luz": 13,
+        "data_hora": "2025-10-31T00:00:00.000Z"
+    },
+    {
+        "temperatura": 18,
+        "humidade": 56.9,
+        "luz": 2,
+        "data_hora": "2025-10-31T01:00:00.000Z"
+    },
+    {
+        "temperatura": 20.6,
+        "humidade": 63.7,
+        "luz": 13,
+        "data_hora": "2025-10-31T02:00:00.000Z"
+    },
+    {
+        "temperatura": 20.4,
+        "humidade": 63.6,
+        "luz": 9,
+        "data_hora": "2025-10-31T03:00:00.000Z"
+    },
+    {
+        "temperatura": 20.3,
+        "humidade": 78.7,
+        "luz": 10,
+        "data_hora": "2025-10-31T04:00:00.000Z"
+    },
+    {
+        "temperatura": 23.8,
+        "humidade": 63.6,
+        "luz": 14,
+        "data_hora": "2025-10-31T05:00:00.000Z"
+    },
+    {
+        "temperatura": 25.1,
+        "humidade": 60.6,
+        "luz": 29,
+        "data_hora": "2025-10-31T06:00:00.000Z"
+    },
+    {
+        "temperatura": 22.7,
+        "humidade": 76.3,
+        "luz": 4,
+        "data_hora": "2025-10-31T07:00:00.000Z"
+    },
+    {
+        "temperatura": 28.9,
+        "humidade": 77.3,
+        "luz": 435,
+        "data_hora": "2025-10-31T08:00:00.000Z"
+    },
+    {
+        "temperatura": 25.4,
+        "humidade": 75.2,
+        "luz": 345,
+        "data_hora": "2025-10-31T09:00:00.000Z"
+    },
+    {
+        "temperatura": 19.2,
+        "humidade": 69,
+        "luz": 123,
+        "data_hora": "2025-10-31T10:00:00.000Z"
+    },
+    {
+        "temperatura": 15.4,
+        "humidade": 68.8,
+        "luz": 108,
+        "data_hora": "2025-10-31T11:00:00.000Z"
+    },
+    {
+        "temperatura": 28.4,
+        "humidade": 42.8,
+        "luz": 848,
+        "data_hora": "2025-10-31T12:00:00.000Z"
+    },
+    {
+        "temperatura": 28,
+        "humidade": 47,
+        "luz": 857,
+        "data_hora": "2025-10-31T13:00:00.000Z"
+    },
+    {
+        "temperatura": 19.6,
+        "humidade": 54.8,
+        "luz": 927,
+        "data_hora": "2025-10-31T14:00:00.000Z"
+    },
+    {
+        "temperatura": 19.4,
+        "humidade": 47.7,
+        "luz": 60,
+        "data_hora": "2025-10-31T15:00:00.000Z"
+    },
+    {
+        "temperatura": 26.7,
+        "humidade": 63.5,
+        "luz": 247,
+        "data_hora": "2025-10-31T16:00:00.000Z"
+    },
+    {
+        "temperatura": 21.6,
+        "humidade": 41.5,
+        "luz": 113,
+        "data_hora": "2025-10-31T17:00:00.000Z"
+    },
+    {
+        "temperatura": 15.7,
+        "humidade": 65.8,
+        "luz": 930,
+        "data_hora": "2025-10-31T18:00:00.000Z"
+    },
+    {
+        "temperatura": 18.6,
+        "humidade": 79.7,
+        "luz": 17,
+        "data_hora": "2025-10-31T19:00:00.000Z"
+    },
+    {
+        "temperatura": 25.4,
+        "humidade": 55,
+        "luz": 22,
+        "data_hora": "2025-10-31T20:00:00.000Z"
+    },
+    {
+        "temperatura": 29.1,
+        "humidade": 52.3,
+        "luz": 5,
+        "data_hora": "2025-10-31T21:00:00.000Z"
+    },
+    {
+        "temperatura": 29.8,
+        "humidade": 55,
+        "luz": 22,
+        "data_hora": "2025-10-31T22:00:00.000Z"
+    },
+    {
+        "temperatura": 22,
+        "humidade": 58,
+        "luz": 27,
+        "data_hora": "2025-10-31T23:00:00.000Z"
+    }
+]

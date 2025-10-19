@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ISI\\VisualStudio\\AnaliseDadosISI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B083E3B-E07B-4C4D-B6C4-D0794988F46D}|AnaliseDadosISI\\AnaliseDadosISI.csproj|c:\\isi\\visualstudio\\analisedadosisi\\analisedadosisi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B083E3B-E07B-4C4D-B6C4-D0794988F46D}|AnaliseDadosISI\\AnaliseDadosISI.csproj|solutionrelative:analisedadosisi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B083E3B-E07B-4C4D-B6C4-D0794988F46D}|AnaliseDadosISI\\AnaliseDadosISI.csproj|c:\\isi\\visualstudio\\analisedadosisi\\analisedadosisi\\gerarxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B083E3B-E07B-4C4D-B6C4-D0794988F46D}|AnaliseDadosISI\\AnaliseDadosISI.csproj|solutionrelative:analisedadosisi\\gerarxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GerarXML.cs",
+              "DocumentMoniker": "C:\\ISI\\VisualStudio\\AnaliseDadosISI\\AnaliseDadosISI\\GerarXML.cs",
+              "RelativeDocumentMoniker": "AnaliseDadosISI\\GerarXML.cs",
+              "ToolTip": "C:\\ISI\\VisualStudio\\AnaliseDadosISI\\AnaliseDadosISI\\GerarXML.cs",
+              "RelativeToolTip": "AnaliseDadosISI\\GerarXML.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:19:07.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ISI\\VisualStudio\\AnaliseDadosISI\\AnaliseDadosISI\\Program.cs",
+              "RelativeDocumentMoniker": "AnaliseDadosISI\\Program.cs",
+              "ToolTip": "C:\\ISI\\VisualStudio\\AnaliseDadosISI\\AnaliseDadosISI\\Program.cs",
+              "RelativeToolTip": "AnaliseDadosISI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T15:16:24.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

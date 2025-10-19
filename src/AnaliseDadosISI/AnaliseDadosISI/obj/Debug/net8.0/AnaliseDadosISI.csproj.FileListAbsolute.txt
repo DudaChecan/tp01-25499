@@ -1,0 +1,14 @@
+C:\ISI\VisualStudio\AnaliseDadosISI\AnaliseDadosISI\bin\Debug\net8.0\AnaliseDadosISI.exe
+C:\ISI\VisualStudio\AnaliseDadosISI\AnaliseDadosISI\bin\Debug\net8.0\AnaliseDadosISI.deps.json
+C:\ISI\VisualStudio\AnaliseDadosISI\AnaliseDadosISI\bin\Debug\net8.0\AnaliseDadosISI.runtimeconfig.json
+C:\ISI\VisualStudio\AnaliseDadosISI\AnaliseDadosISI\bin\Debug\net8.0\AnaliseDadosISI.dll
+C:\ISI\VisualStudio\AnaliseDadosISI\AnaliseDadosISI\bin\Debug\net8.0\AnaliseDadosISI.pdb
+C:\ISI\VisualStudio\AnaliseDadosISI\AnaliseDadosISI\obj\Debug\net8.0\AnaliseDadosISI.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISI\VisualStudio\AnaliseDadosISI\AnaliseDadosISI\obj\Debug\net8.0\AnaliseDadosISI.AssemblyInfoInputs.cache
+C:\ISI\VisualStudio\AnaliseDadosISI\AnaliseDadosISI\obj\Debug\net8.0\AnaliseDadosISI.AssemblyInfo.cs
+C:\ISI\VisualStudio\AnaliseDadosISI\AnaliseDadosISI\obj\Debug\net8.0\AnaliseDadosISI.csproj.CoreCompileInputs.cache
+C:\ISI\VisualStudio\AnaliseDadosISI\AnaliseDadosISI\obj\Debug\net8.0\AnaliseDadosISI.dll
+C:\ISI\VisualStudio\AnaliseDadosISI\AnaliseDadosISI\obj\Debug\net8.0\refint\AnaliseDadosISI.dll
+C:\ISI\VisualStudio\AnaliseDadosISI\AnaliseDadosISI\obj\Debug\net8.0\AnaliseDadosISI.pdb
+C:\ISI\VisualStudio\AnaliseDadosISI\AnaliseDadosISI\obj\Debug\net8.0\AnaliseDadosISI.genruntimeconfig.cache
+C:\ISI\VisualStudio\AnaliseDadosISI\AnaliseDadosISI\obj\Debug\net8.0\ref\AnaliseDadosISI.dll

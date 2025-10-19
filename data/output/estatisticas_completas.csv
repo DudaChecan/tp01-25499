@@ -1,0 +1,5 @@
+Variavel;Media;Mediana;Moda;Variancia;Amplitude;DesvioPadrao
+temp_min_api;17,78;17,73;15,97;1,90;7,13;1,38
+temp_api;17,83;17,77;15,97;1,84;7,13;1,36
+hum_api;91,58;95,50;98,00;88,24;37,00;9,39
+temp_max_api;17,83;17,77;15,97;1,84;7,13;1,36
